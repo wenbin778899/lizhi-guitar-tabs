@@ -114,7 +114,6 @@ function showScorePreview() {
   ui.scoreThumb.dataset.page = version.pages[0];
   const image = node('img', 'score-thumb-image');
   image.alt = state.detailTrack.title + '六线谱第一页';
-  image.loading = 'lazy';
   image.decoding = 'async';
   const placeholder = node('span', 'score-thumb-status', '正在加载第一页…');
   image.addEventListener('load', () => placeholder.remove(), { once: true });
