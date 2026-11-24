@@ -1,0 +1,4020 @@
+[
+  {
+    "id": "he-ni-zai-yi-qi",
+    "title": "和你在一起",
+    "aliases": [
+      "与你在一起",
+      "To Be With You"
+    ],
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1350211/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/20201591.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老知了",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3292.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "蓝莓吉他",
+        "key": "A",
+        "capo": 0
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47968/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1352744/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "必弹吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/14873/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老知了",
+        "version": "现场版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1335953/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "新四合一吉他谱"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1347153/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "与耳音乐"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/8627.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/12876.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "蓝莓吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/11161.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13216.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/28448.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/14382.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/9482.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "晓涛吉他",
+        "key": "G"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/632.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/ztjx/447.html",
+        "kind": "指弹",
+        "access": "公开",
+        "arranger": "小磊吉他",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4898",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4266",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=7934",
+        "kind": "指弹",
+        "access": "公开",
+        "arranger": "小磊吉他"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4206",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "晓涛吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1294127/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "原版吉他谱+原版李志教学视频"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/20879/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1339033/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "无限延音编配",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1339149/",
+        "kind": "指弹",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15659/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "现场版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1315902/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "琴庐乐器版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1315898/",
+        "kind": "双吉他",
+        "access": "公开",
+        "version": "琴庐乐器版"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11972.html",
+        "kind": "指弹",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/1823.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/4887.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/99.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "现场版"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/292.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "现场版"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q51531",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "橙子2021🐰",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q52132",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "会长",
+        "key": "A"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q7840",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "平台官方",
+        "key": "A"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q56321",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "壹岁半",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q59056",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "子歌制谱",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/414.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/575.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "最易上手",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/28536.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "吉他专家",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25162.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/33353.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "壹岁半",
+        "key": "Bb"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1403489/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "原版带前奏"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402367/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "原版带前奏间奏"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349450/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "精编完美版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1334306/",
+        "kind": "指弹",
+        "access": "付费",
+        "arranger": "王一吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1392348/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "壹岁半"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/1675.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "程明",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202112128.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "悠音吉他课堂",
+        "key": "G转A"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/682/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "天空之城",
+    "title": "天空之城",
+    "aliases": [
+      "Sky City",
+      "天空の城"
+    ],
+    "versions": [
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202458903.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47978/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1298229/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "吉他弹唱",
+        "version": "酷音小伟",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1350321/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1298650/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "四合一吉他谱",
+        "version": "流行四合一吉他谱 木棉道琴行"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1301905/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "唯音悦吉他社",
+        "version": "G调完整版简单版吉他谱 唯音悦制谱",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1308373/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "弦木吉他",
+        "version": "弦木吉他简单弹吉他:第32期"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1337159/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "音乐玩老卫"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1298204/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "纵玩吉他",
+        "version": "纵玩乐器版"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/10310.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/5616.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大伟吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/18929.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8559.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8557.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "version": "简单版",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8558.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "version": "中级版",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/7710.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "弦木吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/11672.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小磊吉他",
+        "key": "G"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/424.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4549",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "高音教",
+        "key": "G"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=3117",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "纵玩乐器",
+        "key": "A",
+        "capo": 2
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1319692/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "G调标准版吉他谱高清版 高音教编配",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1298122/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "修改完美版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1298228/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "G调中级版 酷音小伟",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1314290/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1340703/",
+        "kind": "指弹",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1308246/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/6079.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q7851",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "平台官方",
+        "key": "A"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/1926.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "农村弹唱王",
+        "key": "C",
+        "capo": 5
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402751/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "弹唱原版带前奏"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/5819.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "程明",
+        "key": "A"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/2231.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "C"
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202111437.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "农村弹唱王",
+        "key": "C"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/684/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "梵高先生",
+    "title": "梵高先生",
+    "aliases": [
+      "凡高先生",
+      "Van Gogh"
+    ],
+    "versions": [
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/20203458.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "吉他专家",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202354498.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1377573/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "吉他弹唱",
+        "version": "中级版 带教学视频 酷音小伟吉他教学"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/19506/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "吉他dudu"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1338878/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/93260/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "洛阳吉他培训"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1348194/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "天韵艺术中心"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1296661/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "音艺吉他弹唱系列"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1347143/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "与耳音乐"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/17871.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/10847.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13217.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "B"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/19325.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "B"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/16596.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12573.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/9502.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "晓涛吉他",
+        "key": "G"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3646.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "晓涛吉他",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=2885",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "17吉他",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=6019",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=3150",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "琴庐乐器",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4210",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "晓涛吉他",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/39466/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1346148/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1377574/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "初级进阶版 酷音小伟吉他教学"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/70827/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/70826/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/70828/",
+        "kind": "双吉他",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/70829/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "bB"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/10311.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/10310.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/10312.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/236.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/366.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/1606.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/4908.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q11998",
+        "kind": "指弹",
+        "access": "预览",
+        "arranger": "鸿涛吉他",
+        "key": "C"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q928",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "旋律魔咒",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/5880.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "农村弹唱王",
+        "key": "C"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/425.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "最易上手",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25161.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402342/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "带前奏原版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349515/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "完美版"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/1325.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "G",
+        "capo": 4
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202235463.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "农村弹唱王",
+        "key": "C"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/676/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "id": "关于郑州的记忆",
+    "title": "关于郑州的记忆",
+    "aliases": [
+      "郑州",
+      "郑州的记忆"
+    ],
+    "versions": [
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/20202000.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1297352/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大伟吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1336755/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/93259/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "洛阳吉他培训"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1303042/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "四合一吉他谱",
+        "version": "四合一吉他谱 木棉道琴行"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1347149/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "与耳音乐"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1311999/",
+        "kind": "双吉他",
+        "access": "公开",
+        "arranger": "最新吉他谱",
+        "version": "2016北京不插电版"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/16959.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/8933.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "无限延音",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/10461.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/5143.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大伟吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/19775.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8547.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12575.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老姚吉他",
+        "key": "A"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/tcjx/2910.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jtzt/2357.html",
+        "kind": "指弹",
+        "access": "公开",
+        "arranger": "钟亚",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4504",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "爱德文吉他教室",
+        "key": "A"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=2989",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大伟吉他",
+        "key": "A"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4301",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4075",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "巍小琪",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/153164/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "简单版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1303313/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "酷音小伟吉他教学"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/181409/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1340520/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "简单版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1308242/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1333574/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "高音教编配",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1339993/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "无限延音编配"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1299025/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "降噪不插电"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11479.html",
+        "kind": "指弹",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/1580.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/3550.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/7091.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/2211.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "A",
+        "capo": 0
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1376889/",
+        "kind": "双吉他",
+        "access": "预览",
+        "arranger": "老宇制谱",
+        "version": "2019洗心革面"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/6897.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "单身狗",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/2950.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "断湘弦",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/28535.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "吉他专家",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402259/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "原版"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/5723.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/932.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "A"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/680/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "山阴路的夏天",
+    "title": "山阴路的夏天",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/24170.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=3237",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "老杨",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1294161/",
+        "kind": "双吉他",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/10869.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12773.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/1696.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/5879.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "农村弹唱王",
+        "key": "C"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/403.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/6731.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "天涯过客",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/36348.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "地平线",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25169.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349669/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "精编完美版"
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202235459.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "农村弹唱王",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/688/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "热河",
+    "title": "热河",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1328512/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "音艺艺术",
+        "version": "音艺吉他弹唱教学:第七季第59集"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13221.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/24199.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/11473.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "音艺",
+        "key": "C"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=5209",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "音艺",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/70358/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/8008.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/1621.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=5670",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/473.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25168.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1350197/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/692/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "定西",
+    "title": "定西",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13222.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/33087.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1294191/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "1701原版"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11081.html",
+        "kind": "双吉他",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/4916.html",
+        "kind": "双吉他",
+        "access": "公开",
+        "version": "双吉他版"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3050.html",
+        "kind": "双吉他",
+        "access": "公开",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/469.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25160.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1375882/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "酷玩吉他网",
+        "version": "单吉他版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1350170/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/686/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "这个世界会好吗",
+    "title": "这个世界会好吗",
+    "aliases": [
+      "这个世界会好么"
+    ],
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47984/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/13634.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13214.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/17581.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/14506.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "无限延音",
+        "key": "G"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/tcjx/1583.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G",
+        "capo": 0
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/1720.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小琪琴社",
+        "key": "G",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4175",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "巍小琪",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15084/",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1306252/",
+        "kind": "双吉他",
+        "access": "公开",
+        "version": "Has man A FUTURE"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/10912.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/373.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/517.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8663.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q2100",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "一阵风",
+        "key": "G"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/5953.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "单身狗",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402947/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "弹唱原版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1396739/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "自由如风谱"
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202235081.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "农村弹唱王",
+        "key": "G",
+        "capo": 0
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/700/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "黑色信封",
+    "title": "黑色信封",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47969/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/21351/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1327345/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/293.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q44496",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "潘小刀",
+        "key": "A"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/404.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/6973.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25163.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/24761.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "version": "和声版",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349622/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1390743/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "摇滚版"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/705/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "忽然",
+    "title": "忽然",
+    "versions": [
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202354625.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "深蓝雨吉他",
+        "key": "D"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/11163.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "深蓝雨吉他",
+        "key": "D"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/1533.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C",
+        "capo": 2
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=9486",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4895",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "深蓝雨吉他",
+        "key": "D"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/171398/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1326836/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "深蓝雨吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1343582/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "无限延音编配"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402074/",
+        "kind": "双吉他",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/5604.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/2384.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "行为不端南京人",
+        "key": "D"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1403952/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "自由如风谱"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/6489.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "C",
+        "capo": 2
+      }
+    ]
+  },
+  {
+    "id": "下雨",
+    "title": "下雨",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13219.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "E"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/24033.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "E"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4067",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "巍小琪",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1300322/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/9119.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q57416",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "房弋",
+        "key": "C",
+        "capo": 4
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q46424",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "壹岁半",
+        "key": "E"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/33405.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "壹岁半",
+        "key": "E"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1404004/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "原版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1402855/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "等你下课弹吉他",
+        "version": "弹唱原版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1392451/",
+        "kind": "双吉他",
+        "access": "付费",
+        "arranger": "壹岁半"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1396744/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "自由如风谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/678/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "E"
+      }
+    ]
+  },
+  {
+    "id": "春末的南方城市",
+    "title": "春末的南方城市",
+    "aliases": [
+      "南方春末的城市",
+      "春末的南方都市",
+      "春未的南方城市"
+    ],
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13218.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/35305.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/6177.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47953/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/181882/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/143.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/4492.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "1990年的春天",
+    "title": "1990年的春天",
+    "aliases": [
+      "一九九零年的春天",
+      "1990 年的春天"
+    ],
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47936/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/156.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱网",
+        "url": "https://www.qupuw.com/view/6002.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "阿兰",
+    "title": "阿兰",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/4676/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47947/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/141.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "爱",
+    "title": "爱",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47937/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/233.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "暧昧",
+    "title": "暧昧",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47948/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/151.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "被禁忌的游戏",
+    "title": "被禁忌的游戏",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47949/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47950/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47952/",
+        "kind": "指弹",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15660/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11423.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/142.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3880.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G",
+        "capo": 0
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/25410.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/36099.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1404813/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/698/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "不多",
+    "title": "不多",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/141569/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1390439/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "飞韵吉他",
+        "version": "原版",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "采蘑菇的小姑娘",
+    "title": "采蘑菇的小姑娘",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1303110/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/6435.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "苍井空",
+    "title": "苍井空",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47938/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/234.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/696/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "E"
+      }
+    ]
+  },
+  {
+    "id": "倒影",
+    "title": "倒影",
+    "aliases": [
+      "屎的倒影"
+    ],
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47939/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/235.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "冬妮娅",
+    "title": "冬妮娅",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/16171.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小埋",
+        "key": "A"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3590.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小埋",
+        "key": "A",
+        "capo": 0
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47940/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/237.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "董卓瑶",
+    "title": "董卓瑶",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47954/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/152.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/697/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "姑娘怎舍得让你悲伤",
+    "title": "姑娘怎舍得让你悲伤",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/9315.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/9020.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C",
+        "capo": 2
+      }
+    ]
+  },
+  {
+    "id": "海的女儿",
+    "title": "海的女儿",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/95293/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/2056.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "杭州",
+    "title": "杭州",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1301333/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小宁制作"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/28449.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "E"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12779.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "E"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/691/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "E"
+      }
+    ]
+  },
+  {
+    "id": "红色气球",
+    "title": "红色气球",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47971/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/170136/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/17691.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/238.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/1318.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3897.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q54058",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "会长",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "虎口脱险",
+    "title": "虎口脱险",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/166581/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/17408/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "玩易吉他弹唱教程:第六季第7集"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/95209/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/95210/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/18296/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/367.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/397.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "E"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25164.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "E"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349912/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "李志版"
+      }
+    ]
+  },
+  {
+    "id": "黄昏",
+    "title": "黄昏",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/176873/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      }
+    ]
+  },
+  {
+    "id": "家乡",
+    "title": "家乡",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13215.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47941/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/374.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "结婚",
+    "title": "结婚",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/32596.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C#"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/8882.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "C",
+        "capo": 1
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47942/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q27562",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "超子",
+        "key": "G"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/5417.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C",
+        "capo": 2
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25165.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1388586/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版扫弦版"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1397140/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "自由如风谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/695/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C#"
+      }
+    ]
+  },
+  {
+    "id": "金城兰州",
+    "title": "金城兰州",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/17587.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "濮宇",
+        "key": "C",
+        "capo": 3
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3636.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "濮宇",
+        "key": "C",
+        "capo": 3
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/702/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "Eb"
+      }
+    ]
+  },
+  {
+    "id": "尽头",
+    "title": "尽头",
+    "versions": [
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/6494.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "key": "A",
+        "capo": 2
+      }
+    ]
+  },
+  {
+    "id": "九月",
+    "title": "九月",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47972/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/368.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "酒吧叙事体",
+    "title": "酒吧叙事体",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/170957/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/173.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/701/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "卡夫卡",
+    "title": "卡夫卡",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47973/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/31788.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "F"
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=9769",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "capo": 3
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/7194/",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15079/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/369.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/681/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "id": "看见",
+    "title": "看见",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/396.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25166.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1349918/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "现场版"
+      }
+    ]
+  },
+  {
+    "id": "克兰河",
+    "title": "克兰河",
+    "versions": [
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4094",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "WIT吉协",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1307501/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11882.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/9194.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/6454.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G",
+        "capo": 1
+      }
+    ]
+  },
+  {
+    "id": "来了",
+    "title": "来了",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47974/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1401713/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "简单版"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/370.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q26173",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "超子",
+        "key": "G",
+        "capo": 2
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/690/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "离婚",
+    "title": "离婚",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/15797.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "A"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/2744.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "A",
+        "capo": 0
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/693/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "鹿港小镇",
+    "title": "鹿港小镇",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/153165/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "简单版"
+      }
+    ]
+  },
+  {
+    "id": "路",
+    "title": "路",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/177440/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/2485.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "罗庄的冬天",
+    "title": "罗庄的冬天",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/95208/",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "妈妈",
+    "title": "妈妈",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47975/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/685/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "Eb"
+      }
+    ]
+  },
+  {
+    "id": "玫瑰",
+    "title": "玫瑰",
+    "versions": [
+      {
+        "source": "新乐谱",
+        "url": "https://www.xinyuepu.com/jitapu/20198/14950.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "简单吉他"
+      }
+    ]
+  },
+  {
+    "id": "美丽的梭罗河",
+    "title": "美丽的梭罗河",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/44346/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/87641/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/9985.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "E"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/375.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/10615.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3626.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "E",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=4564",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "E"
+      }
+    ]
+  },
+  {
+    "id": "门",
+    "title": "门",
+    "versions": [
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/6224.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "一阵风",
+        "key": "C",
+        "capo": 2
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15085/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/304.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "米店",
+    "title": "米店",
+    "versions": [
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/20204619.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G",
+        "capo": 3
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/13220.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "大茨花",
+        "key": "B"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/8549.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "酷音小伟",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47943/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1299395/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "酷音小伟吉他教学"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/453.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "弹琴吧",
+        "url": "https://www.tan8.com/jitapu-50377.html",
+        "kind": "弹唱",
+        "access": "未知"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/694/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "Bb"
+      }
+    ]
+  },
+  {
+    "id": "南京越来越远",
+    "title": "南京越来越远",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/34094.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "B"
+      }
+    ]
+  },
+  {
+    "id": "你的早晨-天空之城",
+    "title": "你的早晨 / 天空之城",
+    "aliases": [
+      "你的早晨&天空之城",
+      "你的早晨+天空之城",
+      "组曲"
+    ],
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/33376.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "壹岁半",
+        "key": "A"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q41515",
+        "kind": "弹唱",
+        "access": "预览",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1392452/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "壹岁半"
+      }
+    ]
+  },
+  {
+    "id": "你离开了南京-从此没有人和我说话",
+    "title": "你离开了南京，从此没有人和我说话",
+    "aliases": [
+      "你离开了南京",
+      "你离开了南京 却没人跟我说话"
+    ],
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47976/",
+        "kind": "指弹",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/12928.html",
+        "kind": "指弹",
+        "access": "公开",
+        "arranger": "小磊吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1374865/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/562.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q26175",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "超子",
+        "key": "C",
+        "capo": 4
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/3295.html",
+        "kind": "指弹",
+        "access": "预览",
+        "arranger": "简单版新手谱"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/2581.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "珺妹儿",
+        "key": "C",
+        "capo": 4
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/22713.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "吉他专家",
+        "key": "E"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1406096/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "自由如风谱"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/finger/5944.html",
+        "kind": "双吉他",
+        "access": "付费",
+        "arranger": "赵永庆、赵翔",
+        "key": "C",
+        "capo": 4
+      },
+      {
+        "source": "吉他派",
+        "url": "https://www.jitapai.com/202115817.html",
+        "kind": "弹唱",
+        "access": "需登录",
+        "arranger": "珺妹儿",
+        "key": "C",
+        "capo": 4
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/679/",
+        "kind": "指弹",
+        "access": "未知",
+        "key": "E"
+      }
+    ]
+  },
+  {
+    "id": "女神",
+    "title": "女神",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1333098/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "古典吉他"
+      }
+    ]
+  },
+  {
+    "id": "普希金",
+    "title": "普希金",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1308517/",
+        "kind": "双吉他",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "铅笔",
+    "title": "铅笔",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/170959/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/157.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "318曲谱",
+        "url": "https://www.318qupu.com/pu/28320.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/42.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25167.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "A"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1344822/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/703/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "墙上的向日葵",
+    "title": "墙上的向日葵",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/27094.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "Ab"
+      },
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q25666",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "轻歌入梦",
+        "key": "C",
+        "capo": 3
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/683/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "Eb"
+      }
+    ]
+  },
+  {
+    "id": "日",
+    "title": "日",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/9342.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "谁他妈没织过毛衣",
+    "title": "谁他妈没织过毛衣",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1327321/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/699/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "思念的观世音",
+    "title": "思念的观世音",
+    "aliases": [
+      "思念观世音"
+    ],
+    "versions": [
+      {
+        "source": "吉他世界",
+        "url": "https://www.guitarworld.com.cn/pu/q2102",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "一阵风",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "送别",
+    "title": "送别",
+    "versions": [
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12310.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "小宁",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/11712.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "音伴",
+        "url": "https://www.yinban.com/tab/sing/5886.html",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "程明",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "他们",
+    "title": "他们",
+    "versions": [
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3595.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11796.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/564.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "听妈妈讲那过去的事情",
+    "title": "听妈妈讲那过去的事情",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47944/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/454.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "鸵鸟",
+    "title": "鸵鸟",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/145627/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jingxuan/6178.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "F",
+        "capo": 5
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/25170.html",
+        "kind": "弹唱",
+        "access": "预览",
+        "arranger": "生产队",
+        "key": "F"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1389498/",
+        "kind": "弹唱",
+        "access": "付费",
+        "arranger": "生产队",
+        "version": "原版吉他谱"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/704/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "C"
+      }
+    ]
+  },
+  {
+    "id": "翁庆年的六英镑",
+    "title": "翁庆年的六英镑",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/20878/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "现场版"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/433.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "想起了他",
+    "title": "想起了他",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47979/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15521/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/376.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "小螺号",
+    "title": "小螺号",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1302786/",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "斜",
+    "title": "斜",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47982/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/15550/",
+        "kind": "弹唱",
+        "access": "公开",
+        "version": "带尾奏"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/371.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "寻找",
+    "title": "寻找",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/178839/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/31886.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他",
+        "key": "G"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/31990.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "革命吉他"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/20738/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/496.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/2455.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/12775.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/687/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "一头偶像",
+    "title": "一头偶像",
+    "versions": [
+      {
+        "source": "琴艺谱",
+        "url": "https://www.qinyipu123.com/jita/5525.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "WIT吉协",
+        "key": "G"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/1307401/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/677/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "G"
+      }
+    ]
+  },
+  {
+    "id": "意味",
+    "title": "意味",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47945/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/377.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "听李志",
+        "url": "https://www.tinglizhi.com/score/689/",
+        "kind": "弹唱",
+        "access": "未知",
+        "key": "A"
+      }
+    ]
+  },
+  {
+    "id": "月亮代表我的心",
+    "title": "月亮代表我的心",
+    "versions": [
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47983/",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/455.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "在那遥远的地方",
+    "title": "在那遥远的地方",
+    "versions": [
+      {
+        "source": "曲谱部落",
+        "url": "https://www.qupubuluo.com/jttc/3763.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸吉他",
+        "key": "C",
+        "capo": 0
+      },
+      {
+        "source": "优易谱",
+        "url": "https://m.61ok.com/plus/view.php?aid=2996",
+        "kind": "弹唱",
+        "access": "公开",
+        "arranger": "彼岸",
+        "key": "C"
+      },
+      {
+        "source": "吉他社",
+        "url": "https://www.jitashe.org/tab/47946/",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/11409.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/372.html",
+        "kind": "弹唱",
+        "access": "公开"
+      },
+      {
+        "source": "吉他站站",
+        "url": "https://www.jitazz.com/puku/5174.html",
+        "kind": "弹唱",
+        "access": "公开"
+      }
+    ]
+  },
+  {
+    "id": "这座城市让我感到如此孤单",
+    "title": "这座城市让我感到如此孤单",
+    "versions": [
+      {
+        "source": "吉他屋乐谱网",
+        "url": "https://www.jita5.cc/jitapu/9188.html",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "C",
+        "capo": 3
+      }
+    ]
+  }
+]

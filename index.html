@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f8f5">
+  <meta name="description" content="李志吉他六线谱索引。查找弹唱、指弹和双吉他编配，或导入本地谱图阅读。">
+  <title>李志吉他谱</title>
+  <link rel="icon" href="./assets/note.png" type="image/png">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">♪</span><span>李志吉他谱</span></a>
+      <nav aria-label="主导航">
+        <a href="#曲目" class="nav-link" id="catalog-link">曲目</a>
+        <button class="nav-link" type="button" id="favorite-nav"><span class="star" aria-hidden="true">☆</span> 收藏</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-content">
+        <h1 id="page-title">李志吉他谱</h1>
+        <p>李志歌曲的六线谱，按曲目查找弹唱、指弹和双吉他版本。</p>
+        <div class="hero-meta" id="hero-meta" hidden>
+          <span id="song-count"></span><span id="version-count"></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="catalog" id="曲目" aria-labelledby="catalog-title">
+      <header class="catalog-header">
+        <h2 id="catalog-title" tabindex="-1">曲目</h2>
+        <div class="search-box">
+          <span class="search-icon" aria-hidden="true"></span>
+          <input id="search" type="search" autocomplete="off" placeholder="搜索歌名、编配或来源" aria-label="搜索歌名、编配或来源">
+          <kbd aria-hidden="true">/</kbd>
+        </div>
+      </header>
+      <div class="catalog-grid">
+        <div class="catalog-main">
+          <div class="toolbar">
+            <div class="filters" id="filters" aria-label="按曲谱类型筛选">
+              <button type="button" data-kind="all" aria-pressed="true">全部</button>
+              <button type="button" data-kind="弹唱" aria-pressed="false">弹唱</button>
+              <button type="button" data-kind="指弹" aria-pressed="false">指弹</button>
+              <button type="button" data-kind="双吉他" aria-pressed="false">双吉他</button>
+            </div>
+            <label class="public-toggle"><input id="public-only" type="checkbox"> 仅看公开谱</label>
+          </div>
+          <p class="results-label" id="results-label" role="status">正在读取曲库…</p>
+          <ul class="song-list" id="songs"></ul>
+          <div class="empty" id="empty" hidden>
+            <strong id="empty-title"></strong>
+            <p id="empty-text"></p>
+            <button type="button" class="secondary" id="reset">查看所有曲目</button>
+          </div>
+          <button id="more" type="button" class="secondary more" hidden>显示更多曲目</button>
+        </div>
+        <aside class="detail" id="detail" aria-labelledby="track-title" hidden>
+          <div class="detail-header">
+            <button id="back-to-list" type="button" class="back-link">返回曲目</button>
+            <div class="detail-title">
+              <div>
+                <p class="detail-kicker">曲谱版本</p>
+                <h2 id="track-title" tabindex="-1"></h2>
+              </div>
+              <button id="favorite" class="favorite-button" type="button" aria-label="收藏此曲" aria-pressed="false">☆</button>
+            </div>
+            <p id="track-summary"></p>
+          </div>
+          <ul class="versions" id="versions"></ul>
+          <div class="detail-footer">
+            <button id="open-local" class="secondary" type="button">打开本地谱</button>
+            <p>支持图片和 PDF，仅保存在此浏览器。</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <noscript><p>请开启 JavaScript 后查看曲库。</p></noscript>
+  </main>
+  <footer class="container footer">
+    <span>李志吉他谱 · 曲谱索引</span>
+    <a href="https://github.com/wenbin778899/lizhi-guitar-tabs" rel="noreferrer">GitHub</a>
+  </footer>
+
+  <dialog class="reader" id="reader" aria-labelledby="reader-title">
+    <div class="reader-head">
+      <div><p class="detail-kicker">本地读谱</p><h2 id="reader-title"></h2></div>
+      <form method="dialog"><button class="secondary reader-close" type="submit" aria-label="关闭读谱器">关闭</button></form>
+    </div>
+    <div class="reader-actions">
+      <button id="choose-files" type="button" class="secondary">选择谱图</button>
+      <input id="local-files" type="file" accept=".png,.jpg,.jpeg,.webp,.avif,.gif,.bmp,.pdf" multiple hidden>
+      <div class="page-controls" id="page-controls" hidden>
+        <button class="secondary" id="prev-page" type="button">上一页</button>
+        <span id="page-count" aria-live="polite"></span>
+        <button class="secondary" id="next-page" type="button">下一页</button>
+      </div>
+      <div class="zoom" id="zoom" hidden>
+        <button class="secondary" id="zoom-out" type="button" aria-label="缩小">−</button>
+        <button class="secondary" id="zoom-reset" type="button" aria-label="适合宽度">适合宽度</button>
+        <button class="secondary" id="zoom-in" type="button" aria-label="放大">+</button>
+      </div>
+      <a class="secondary" id="open-pdf" target="_blank" rel="noopener" hidden>打开 PDF</a>
+    </div>
+    <p class="reader-notice" id="reader-notice" role="status"></p>
+    <div class="reader-body" id="reader-body"></div>
+  </dialog>
+</body>
+</html>
