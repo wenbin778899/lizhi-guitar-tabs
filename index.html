@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f5f8f5">
-  <meta name="description" content="李志吉他六线谱索引。查找弹唱、指弹和双吉他编配，或导入本地谱图阅读。">
+  <meta name="description" content="李志吉他六线谱索引。直接查看弹唱、指弹和双吉他六线谱，也可导入本地谱图。">
   <title>李志吉他谱</title>
   <link rel="icon" href="./assets/note.png" type="image/png">
-  <link rel="stylesheet" href="./styles.css">
-  <script type="module" src="./app.js"></script>
+  <link rel="stylesheet" href="./styles.css?v=2">
+  <script type="module" src="./app.js?v=2"></script>
 </head>
 <body>
   <header class="site-header">
@@ -25,7 +25,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div class="hero-content">
         <h1 id="page-title">李志吉他谱</h1>
-        <p>李志歌曲的六线谱，按曲目查找弹唱、指弹和双吉他版本。</p>
+        <p>查找李志歌曲的弹唱、指弹和双吉他六线谱，站内翻页练习。</p>
         <div class="hero-meta" id="hero-meta" hidden>
           <span id="song-count"></span><span id="version-count"></span>
         </div>
@@ -50,7 +50,7 @@
               <button type="button" data-kind="指弹" aria-pressed="false">指弹</button>
               <button type="button" data-kind="双吉他" aria-pressed="false">双吉他</button>
             </div>
-            <label class="public-toggle"><input id="public-only" type="checkbox"> 仅看公开谱</label>
+            <label class="public-toggle"><input id="online-only" type="checkbox"> 仅看有谱曲目</label>
           </div>
           <p class="results-label" id="results-label" role="status">正在读取曲库…</p>
           <ul class="song-list" id="songs"></ul>
@@ -73,7 +73,16 @@
             </div>
             <p id="track-summary"></p>
           </div>
-          <ul class="versions" id="versions"></ul>
+          <div class="online-score" id="online-score" hidden>
+            <label for="version-select">选择版本</label>
+            <select id="version-select"></select>
+            <p class="score-meta" id="score-meta"></p>
+            <button id="score-preview" class="score-preview" type="button" aria-label="打开读谱器">
+              <span class="score-thumb" id="score-thumb"></span>
+              <span class="score-preview-action">放大看谱</span>
+            </button>
+          </div>
+          <p class="no-online-score" id="no-online-score" hidden>你可以导入这首歌的图片或 PDF。</p>
           <div class="detail-footer">
             <button id="open-local" class="secondary" type="button">打开本地谱</button>
             <p>支持图片和 PDF，仅保存在此浏览器。</p>
@@ -85,13 +94,13 @@
     <noscript><p>请开启 JavaScript 后查看曲库。</p></noscript>
   </main>
   <footer class="container footer">
-    <span>李志吉他谱 · 曲谱索引</span>
+    <span>李志吉他谱 · 在线读谱</span>
     <a href="https://github.com/wenbin778899/lizhi-guitar-tabs" rel="noreferrer">GitHub</a>
   </footer>
 
   <dialog class="reader" id="reader" aria-labelledby="reader-title">
     <div class="reader-head">
-      <div><p class="detail-kicker">本地读谱</p><h2 id="reader-title"></h2></div>
+      <div><p class="detail-kicker" id="reader-mode">读谱</p><h2 id="reader-title"></h2></div>
       <form method="dialog"><button class="secondary reader-close" type="submit" aria-label="关闭读谱器">关闭</button></form>
     </div>
     <div class="reader-actions">
@@ -107,6 +116,7 @@
         <button class="secondary" id="zoom-reset" type="button" aria-label="适合宽度">适合宽度</button>
         <button class="secondary" id="zoom-in" type="button" aria-label="放大">+</button>
       </div>
+      <button class="secondary" id="retry-page" type="button" hidden>重新加载</button>
       <a class="secondary" id="open-pdf" target="_blank" rel="noopener" hidden>打开 PDF</a>
     </div>
     <p class="reader-notice" id="reader-notice" role="status"></p>

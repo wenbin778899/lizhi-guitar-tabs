@@ -1,12 +1,14 @@
-import { createReader } from './reader.js';
+import { createReader } from './reader.js?v=2';
 
 const byId = (id) => document.getElementById(id);
 const ui = {
-  search: byId('search'), filters: byId('filters'), publicOnly: byId('public-only'),
+  search: byId('search'), filters: byId('filters'), onlineOnly: byId('online-only'),
   list: byId('songs'), results: byId('results-label'), more: byId('more'),
   empty: byId('empty'), emptyTitle: byId('empty-title'), emptyText: byId('empty-text'),
   reset: byId('reset'), detail: byId('detail'), title: byId('track-title'),
-  summary: byId('track-summary'), versions: byId('versions'), favorite: byId('favorite'),
+  summary: byId('track-summary'), score: byId('online-score'), versionSelect: byId('version-select'),
+  scoreMeta: byId('score-meta'), scorePreview: byId('score-preview'), scoreThumb: byId('score-thumb'),
+  noScore: byId('no-online-score'), favorite: byId('favorite'),
   favoriteNav: byId('favorite-nav'), back: byId('back-to-list'), local: byId('open-local'),
 };
 const pageSize = 12;
@@ -15,7 +17,8 @@ const favoritesKey = 'lizhi-tabs:favorites:v1';
 const typeOrder = ['弹唱', '指弹', '双吉他'];
 const state = {
   tracks: [], favorites: readFavorites(), selected: '',
-  kind: 'all', publicOnly: false, favoritesOnly: false, limit: pageSize, failed: false,
+  detailTrack: null, selectedVersions: new Map(),
+  kind: 'all', onlineOnly: false, favoritesOnly: false, limit: pageSize, failed: false,
 };
 const reader = createReader(() => updateLocalButton(state.selected));
 
@@ -39,12 +42,16 @@ function normalize(text) {
   return String(text ?? '').normalize('NFKC').toLowerCase().replace(/[\s·《》、]/g, '');
 }
 
+function isReadable(version) {
+  return Array.isArray(version.pages) && version.pages.length > 0;
+}
+
 function versionsFor(track, query) {
   const matchesTitle = !query || [track.title, ...(track.aliases || [])]
     .some((title) => normalize(title).includes(query));
   return track.versions.filter((version) => (
     (state.kind === 'all' || state.kind === version.kind)
-    && (!state.publicOnly || version.access === '公开')
+    && (!state.onlineOnly || isReadable(version))
     && (matchesTitle || [version.source, version.arranger, version.version, version.key, version.kind]
       .some((value) => normalize(value).includes(query)))
   ));
@@ -75,30 +82,48 @@ function trackButton(track) {
     star.setAttribute('aria-label', '已收藏');
     count.append(star);
   }
-  count.append(document.createTextNode(track.versions.length + ' 个入口'));
+  const readable = track.versions.filter(isReadable).length;
+  count.append(document.createTextNode(readable ? readable + ' 版可读' : '暂无在线谱'));
   button.append(mark, labels, count);
   const item = node('li');
   item.append(button);
   return item;
 }
 
-function versionRow(version) {
-  const item = node('li');
-  const link = node('a', 'version-link');
-  link.href = version.url;
-  link.target = '_blank';
-  link.rel = 'noopener noreferrer';
-  const label = [version.source, version.arranger, version.version].filter(Boolean).join(' · ');
-  const keyLabel = version.key && (version.key.endsWith('调') ? version.key + '指法' : version.key + ' 调指法');
-  const capoLabel = Number.isInteger(version.capo) && (version.capo === 0 ? '不夹变调夹' : '变调夹 ' + version.capo + ' 品');
-  const details = [version.kind || '六线谱', keyLabel, capoLabel].filter(Boolean);
-  const action = node('span', 'version-action');
-  const access = node('span', 'version-access', version.access === '未知' ? '访问条件见原站' : version.access);
-  access.dataset.access = version.access;
-  action.append(access, node('small', '', '打开来源'));
-  link.append(node('span', 'version-name', label), node('span', 'version-meta', details.join(' · ')), action);
-  item.append(link);
-  return item;
+function versionLabel(version) {
+  return [version.kind, version.arranger, version.version, version.source].filter(Boolean).join(' · ');
+}
+
+function currentVersion() {
+  return state.detailTrack?.versions.find((version) => version.url === ui.versionSelect.value && isReadable(version));
+}
+
+function showScorePreview() {
+  const version = currentVersion();
+  if (!version) {
+    ui.scoreThumb.replaceChildren();
+    ui.scoreMeta.textContent = '';
+    return;
+  }
+
+  const key = version.key && (version.key.endsWith('调') ? version.key + '指法' : version.key + ' 调指法');
+  const capo = Number.isInteger(version.capo) && (version.capo === 0 ? '不夹变调夹' : '变调夹 ' + version.capo + ' 品');
+  ui.scoreMeta.textContent = [key, capo, version.pages.length + ' 页'].filter(Boolean).join(' · ');
+
+  if (ui.scoreThumb.dataset.page === version.pages[0] && ui.scoreThumb.firstChild) return;
+  ui.scoreThumb.dataset.page = version.pages[0];
+  const image = node('img', 'score-thumb-image');
+  image.alt = state.detailTrack.title + '六线谱第一页';
+  image.loading = 'lazy';
+  image.decoding = 'async';
+  const placeholder = node('span', 'score-thumb-status', '正在加载第一页…');
+  image.addEventListener('load', () => placeholder.remove(), { once: true });
+  image.addEventListener('error', () => {
+    image.remove();
+    placeholder.textContent = '第一页暂时加载失败，点此打开读谱器重试。';
+  }, { once: true });
+  ui.scoreThumb.replaceChildren(placeholder, image);
+  image.src = version.pages[0];
 }
 
 async function updateLocalButton(id) {
@@ -108,16 +133,24 @@ async function updateLocalButton(id) {
 
 function renderDetail(track) {
   ui.detail.hidden = !track;
-  if (!track) return;
+  state.detailTrack = track || null;
+  if (!track) {
+    ui.scoreThumb.replaceChildren();
+    return;
+  }
   ui.title.textContent = track.title;
-  const sources = new Set(track.versions.map((version) => version.source)).size;
-  ui.summary.textContent = track.versions.length + ' 个谱页入口 · ' + sources + ' 个来源';
+  const versions = track.versions.filter(isReadable);
+  ui.summary.textContent = versions.length ? versions.length + ' 个可读版本' : '暂无可站内阅读的谱面';
   const saved = state.favorites.has(track.id);
   ui.favorite.textContent = saved ? '★' : '☆';
   ui.favorite.setAttribute('aria-pressed', String(saved));
   ui.favorite.setAttribute('aria-label', saved ? '取消收藏' : '收藏此曲');
-  ui.versions.replaceChildren(...track.versions.map(versionRow));
-  ui.versions.scrollTop = 0;
+  ui.score.hidden = !versions.length;
+  ui.noScore.hidden = versions.length > 0;
+  const previous = state.selectedVersions.get(track.id);
+  ui.versionSelect.replaceChildren(...versions.map((version) => new Option(versionLabel(version), version.url)));
+  if (versions.some((version) => version.url === previous)) ui.versionSelect.value = previous;
+  showScorePreview();
   ui.local.textContent = '打开本地谱';
   void updateLocalButton(track.id);
 }
@@ -135,7 +168,7 @@ function render({ keepFocus = false } = {}) {
   ui.list.replaceChildren(...visible.map(trackButton));
   ui.results.textContent = state.failed ? '曲库载入失败' : available.length + ' 首曲目';
   ui.empty.hidden = available.length > 0;
-  const hasFilters = Boolean(ui.search.value.trim()) || state.kind !== 'all' || state.publicOnly;
+  const hasFilters = Boolean(ui.search.value.trim()) || state.kind !== 'all' || state.onlineOnly;
   ui.emptyTitle.textContent = state.failed ? '暂时无法读取曲库' : state.favoritesOnly && !hasFilters ? '还没有收藏' : '没找到符合条件的曲目';
   ui.emptyText.textContent = state.failed ? '请刷新网页后重试。' : state.favoritesOnly && !hasFilters
     ? '打开曲目后，点星标即可收藏。' : '试试其他关键词，或调整筛选条件。';
@@ -160,8 +193,8 @@ function setKind(kind) {
 function resetFilters() {
   setKind('all');
   ui.search.value = '';
-  ui.publicOnly.checked = false;
-  state.publicOnly = false;
+  ui.onlineOnly.checked = false;
+  state.onlineOnly = false;
   state.favoritesOnly = false;
   state.limit = pageSize;
 }
@@ -205,8 +238,8 @@ ui.filters.addEventListener('click', (event) => {
   render();
 });
 
-ui.publicOnly.addEventListener('change', () => {
-  state.publicOnly = ui.publicOnly.checked;
+ui.onlineOnly.addEventListener('change', () => {
+  state.onlineOnly = ui.onlineOnly.checked;
   state.limit = pageSize;
   render();
 });
@@ -272,9 +305,18 @@ ui.back.addEventListener('click', () => {
   else scrollToCatalog();
 });
 
+ui.versionSelect.addEventListener('change', () => {
+  state.selectedVersions.set(state.selected, ui.versionSelect.value);
+  showScorePreview();
+});
+
+ui.scorePreview.addEventListener('click', () => {
+  const version = currentVersion();
+  if (version) void reader.open(state.detailTrack, version);
+});
+
 ui.local.addEventListener('click', () => {
-  const track = state.tracks.find(({ id }) => id === state.selected);
-  if (track) void reader.open(track);
+  if (state.detailTrack) void reader.open(state.detailTrack);
 });
 
 document.addEventListener('keydown', (event) => {
@@ -287,14 +329,15 @@ document.addEventListener('keydown', (event) => {
 
 async function init() {
   try {
-    const response = await fetch('./catalog.json');
+    const response = await fetch('./catalog.json', { cache: 'no-cache' });
     if (!response.ok) throw new Error('目录请求失败');
     state.tracks = await response.json();
     if (!Array.isArray(state.tracks) || !state.tracks.length) throw new Error('曲库为空');
 
-    const versionCount = state.tracks.reduce((total, track) => total + track.versions.length, 0);
-    byId('song-count').textContent = state.tracks.length + ' 首歌曲';
-    byId('version-count').textContent = versionCount + ' 个谱页入口';
+    const readyTracks = state.tracks.filter((track) => track.versions.some(isReadable));
+    const versionCount = readyTracks.reduce((total, track) => total + track.versions.filter(isReadable).length, 0);
+    byId('song-count').textContent = readyTracks.length + ' 首可在线读谱';
+    byId('version-count').textContent = versionCount + ' 个曲谱版本';
     byId('hero-meta').hidden = false;
 
     const linked = catalogHash();

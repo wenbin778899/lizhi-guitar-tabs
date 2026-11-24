@@ -14,7 +14,12 @@
         "access": "公开",
         "arranger": "简单吉他",
         "key": "G",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202012/07/215641ss870t0zitmkrznx.png",
+          "https://att.jitashe.org/data/attachment/forum/202012/07/215643ysdztlqk5v4brrl2.png",
+          "https://att.jitashe.org/data/attachment/forum/202012/07/215645me9g9exz790fa00h.png"
+        ]
       },
       {
         "source": "吉他派",
@@ -23,7 +28,13 @@
         "access": "公开",
         "arranger": "老知了",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://pic.jitapai.com/images/202007020500088.png",
+          "https://pic.jitapai.com/images/2020070205000821.png",
+          "https://pic.jitapai.com/images/2020070205000884.png",
+          "https://pic.jitapai.com/images/2020070205000839.png"
+        ]
       },
       {
         "source": "曲谱部落",
@@ -32,21 +43,36 @@
         "access": "公开",
         "arranger": "蓝莓吉他",
         "key": "A",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251128/tjg2esy10rm106.png",
+          "https://www.qupubuluo.com/qupubuluo/20251128/4bqcgiygcec107.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47968/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/225616hlc11jcaelscyjll.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/225619y6uyjy5u1ejzau3y.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/225622c216p12v1k21pnnp.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/225629tkv8j9cgfkckdftv.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1352744/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "必弹吉他"
+        "arranger": "必弹吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202104/09/115341g4fftoz2drggxnnx.png",
+          "https://att.jitashe.org/data/attachment/forum/202104/09/115344onksqqka3gqyzyhw.png",
+          "https://att.jitashe.org/data/attachment/forum/202104/09/115347qmofmwgkvheaanoz.png"
+        ]
       },
       {
         "source": "吉他社",
@@ -54,7 +80,13 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "老知了",
-        "version": "现场版"
+        "version": "现场版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201212/13/120853xyemn5mxamez9z51.gif",
+          "https://att.jitashe.org/data/attachment/forum/201212/13/120857jz8c5gc88csc8cgl.gif",
+          "https://att.jitashe.org/data/attachment/forum/201212/13/120901cowksdo5rjojxssr.gif",
+          "https://att.jitashe.org/data/attachment/forum/201212/13/120905ewydd1z2j00mdgjy.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -68,7 +100,12 @@
         "url": "https://www.jitashe.org/tab/1347153/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "与耳音乐"
+        "arranger": "与耳音乐",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202006/18/142027wrhbg2qzcok2r2zg.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202006/18/142029z1puv7p5v4bubyu5.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202006/18/142032rpivyzvxyvl3y5qi.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -134,7 +171,12 @@
         "access": "公开",
         "arranger": "简单吉他",
         "key": "G",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251004/bqbpklikb1k495.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251004/obbm4jedu3p496.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251004/peeiv44moye497.jpg"
+        ]
       },
       {
         "source": "曲谱部落",
@@ -142,7 +184,12 @@
         "kind": "指弹",
         "access": "公开",
         "arranger": "小磊吉他",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251003/y5m0qepb03l571.png",
+          "https://www.qupubuluo.com/qupubuluo/20251003/epbaw0ttqol572.png",
+          "https://www.qupubuluo.com/qupubuluo/20251003/gmsslilwe5t574.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -151,7 +198,13 @@
         "access": "公开",
         "arranger": "爱德文吉他",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1804/1-1P423140236.png",
+          "https://m.61ok.com/up/imgs/1804/1-1P423140237.png",
+          "https://m.61ok.com/up/imgs/1804/1-1P423140237-50.png",
+          "https://m.61ok.com/up/imgs/1804/1-1P423140238.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -160,14 +213,24 @@
         "access": "公开",
         "arranger": "简单吉他",
         "key": "G",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1711/1-1G106135P4.png",
+          "https://m.61ok.com/up/imgs/1711/1-1G106135P5.png",
+          "https://m.61ok.com/up/imgs/1711/1-1G106135P5-50.png"
+        ]
       },
       {
         "source": "优易谱",
         "url": "https://m.61ok.com/plus/view.php?aid=7934",
         "kind": "指弹",
         "access": "公开",
-        "arranger": "小磊吉他"
+        "arranger": "小磊吉他",
+        "pages": [
+          "https://m.61ok.com//up/imgs/2010/5-201024114939.png",
+          "https://m.61ok.com//up/imgs/2010/5-201024114940.png",
+          "https://m.61ok.com//up/imgs/2010/5-201024114940-50.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -176,20 +239,43 @@
         "access": "公开",
         "arranger": "晓涛吉他",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1710/1-1G022100T0.png",
+          "https://m.61ok.com/up/imgs/1710/1-1G022100T0-50.png",
+          "https://m.61ok.com/up/imgs/1710/1-1G022100T1.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1294127/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "原版吉他谱+原版李志教学视频"
+        "version": "原版吉他谱+原版李志教学视频",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113551xhpim84jxjkrkhrq.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113555j4getbrggdkz0rpx.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113557ur3imezrjwlam3mi.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113600nro641oordw69444.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113603rlmwkjbhkjiwvmy5.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113606c35sc5ul55cc4u45.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113612yj9he6wv5pepjwy6.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113616omsm5n3pppo5lmpg.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113621zv321ovoyowoomaw.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113625pm22on1pspsc2rpc.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113629vxrfsrff3nwn34f4.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/03/113636cn0tdtxfywpwykkt.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/20879/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201307/28/125825q2mdmen728mmm888.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201307/28/125955bm2qeztei8qflr86.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -197,13 +283,24 @@
         "kind": "弹唱",
         "access": "公开",
         "version": "无限延音编配",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201905/11/161720uy28908z3490628i.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/11/161722m6drko72p9rtfmu5.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/11/161725msvf4jcjmsqfmdns.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/11/161728hq07fsjr44q0fjj4.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1339149/",
         "kind": "指弹",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201905/17/050312jneglez2ee27wze9.png",
+          "https://att.jitashe.org/data/attachment/forum/201905/17/050325usjjmf272msdmf2u.png",
+          "https://att.jitashe.org/data/attachment/forum/201905/17/050337n9rr8ushrehvjgx6.png"
+        ]
       },
       {
         "source": "吉他社",
@@ -422,14 +519,24 @@
         "access": "公开",
         "arranger": "酷音小伟",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://pic.jitapai.com/images/20240401154438b62adbbd.jpg",
+          "https://pic.jitapai.com/images/20240401154448d5275bd2.jpg",
+          "https://pic.jitapai.com/images/20240401154457996d2258.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47978/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/000956wzk6bs3k3cb3dkod.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/001002cixv2qi2dad9s97i.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/001005x7ocd292h79i9lu9.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -438,14 +545,25 @@
         "access": "公开",
         "arranger": "吉他弹唱",
         "version": "酷音小伟",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201608/01/114415rjjssjsppwkd9wsx.gif",
+          "https://att.jitashe.org/data/attachment/forum/201608/01/114416fjqz5zwljewqql6q.gif",
+          "https://att.jitashe.org/data/attachment/forum/201608/01/114417s59ql9nsn33gs392.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1350321/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "老姚吉他"
+        "arranger": "老姚吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202012/15/160208l2njwi2xnfamj21w.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202012/15/160210ibvu6hvqus298srz.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202012/15/160213arrb8eee06iz2ie7.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202012/15/160215o2d14a4y1y8g18wy.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -462,7 +580,12 @@
         "access": "公开",
         "arranger": "唯音悦吉他社",
         "version": "G调完整版简单版吉他谱 唯音悦制谱",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201610/22/222351la9tc0o39iaa1gat.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201610/22/222353dsszj5m8tht9z8rr.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201610/22/222357x9klddqtu55dwwil.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -470,14 +593,25 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "弦木吉他",
-        "version": "弦木吉他简单弹吉他:第32期"
+        "version": "弦木吉他简单弹吉他:第32期",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201703/11/144406vzpb4eq4etpwdpcs.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201703/11/144411e99222qiq670hip6.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201703/11/144414xte67fxiw7zhiehx.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201703/11/144418c550zebm51qemmn4.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1337159/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "音乐玩老卫"
+        "arranger": "音乐玩老卫",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201904/15/104616zr9xai9ncffr3iuk.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201904/15/104619a23vnjk8b75k3h56.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201904/15/104620qe9atks9aeczbtsv.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -485,7 +619,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "纵玩吉他",
-        "version": "纵玩乐器版"
+        "version": "纵玩乐器版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201607/31/124159q33z57gc3n8o33ik.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201607/31/124206bqzaeo2rw2wfrh3h.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201607/31/124212pqqwpe9pv1qssqp2.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -559,7 +698,11 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251003/k0iledk5oks493.png",
+          "https://www.qupubuluo.com/qupubuluo/20251003/0vfrbxeftv5494.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -567,7 +710,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "高音教",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1801/1-1P119133953.png",
+          "https://m.61ok.com/up/imgs/1801/1-1P119133953-50.png",
+          "https://m.61ok.com/up/imgs/1801/1-1P119133954.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -576,7 +724,12 @@
         "access": "公开",
         "arranger": "纵玩乐器",
         "key": "A",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1607/5-160I11J607.jpg",
+          "https://m.61ok.com/up/imgs/1607/5-160I11J608.jpg",
+          "https://m.61ok.com/up/imgs/1607/5-160I11J608-50.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -584,14 +737,22 @@
         "kind": "弹唱",
         "access": "公开",
         "version": "G调标准版吉他谱高清版 高音教编配",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201801/18/220224dbmq0zbhvhizdmfs.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201801/18/220226c15g2gs3fio07z2y.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201801/18/220227qn5pdaf1dfd5w56v.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1298122/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "修改完美版"
+        "version": "修改完美版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201607/28/201016p3dizb9basa7m07g.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -599,25 +760,42 @@
         "kind": "弹唱",
         "access": "公开",
         "version": "G调中级版 酷音小伟",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201608/01/113957w1oqy2kttqo14b17.gif",
+          "https://att.jitashe.org/data/attachment/forum/201608/01/113958h0yat7b7fta7b7r0.gif",
+          "https://att.jitashe.org/data/attachment/forum/201608/01/114000ucz8jpd4ek18nvne.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1314290/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201706/20/144300vwrldch2bl2zdvrh.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1340703/",
         "kind": "指弹",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201908/06/191526yirg0fzbgl08rgi3.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201908/06/191530b8jhi7wckauio5k7.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1308246/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201703/12/154751lwndokywynnywiqb.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201703/12/154753b505p0pv6v6ii8ta.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201703/12/154755v79qxd32drsil110.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -697,7 +875,12 @@
         "access": "公开",
         "arranger": "吉他专家",
         "key": "G",
-        "capo": 4
+        "capo": 4,
+        "pages": [
+          "https://pic.jitapai.com/images/202008180904588.jpeg",
+          "https://pic.jitapai.com/images/2020081809045973.jpeg",
+          "https://pic.jitapai.com/images/2020081809045924.jpeg"
+        ]
       },
       {
         "source": "吉他派",
@@ -706,7 +889,13 @@
         "access": "公开",
         "arranger": "老姚吉他",
         "key": "G",
-        "capo": 4
+        "capo": 4,
+        "pages": [
+          "https://pic.jitapai.com/images/20230222140925d60f8a89.jpeg",
+          "https://pic.jitapai.com/images/20230222140929685ea294.jpeg",
+          "https://pic.jitapai.com/images/2023022214093660289354.jpeg",
+          "https://pic.jitapai.com/images/202302221409421537ab8e.jpeg"
+        ]
       },
       {
         "source": "吉他社",
@@ -714,7 +903,11 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "吉他弹唱",
-        "version": "中级版 带教学视频 酷音小伟吉他教学"
+        "version": "中级版 带教学视频 酷音小伟吉他教学",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202111/25/142353x11ugvtg84cbbjoj.gif",
+          "https://att.jitashe.org/data/attachment/forum/202111/25/142354hc0qgu5eqgzq24tu.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -728,35 +921,59 @@
         "url": "https://www.jitashe.org/tab/1338878/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "老姚吉他"
+        "arranger": "老姚吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201905/05/002033trcrtvgodfn31vdf.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/05/002037zom28moqbkqyorlb.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/05/002042oohzk5e5eovdriv4.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201905/05/002046l8axdndu56bobntb.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/93260/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "洛阳吉他培训"
+        "arranger": "洛阳吉他培训",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201503/23/143422c99z4zq888emqq16.gif",
+          "https://att.jitashe.org/data/attachment/forum/201503/23/143423mkn00ozeeebii84p.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1348194/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "天韵艺术中心"
+        "arranger": "天韵艺术中心",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202008/14/171005uszvu0kpp5vuv6oo.png",
+          "https://att.jitashe.org/data/attachment/forum/202008/14/171010fktzhwfom52gs2os.png",
+          "https://att.jitashe.org/data/attachment/forum/202008/14/171016zsqk0mcsuuqzgq5c.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1296661/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "音艺吉他弹唱系列"
+        "arranger": "音艺吉他弹唱系列",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201606/21/093700emu4nwm8h18zpppd.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201606/21/093701st57lqtehcezggm9.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201606/21/093703qyemii0prtyooetd.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1347143/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "与耳音乐"
+        "arranger": "与耳音乐",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202006/18/104911ma0j944paf2zzrqb.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202006/18/104913v4wydzi445dzi1hx.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -822,7 +1039,12 @@
         "access": "公开",
         "arranger": "晓涛吉他",
         "key": "G",
-        "capo": 4
+        "capo": 4,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251205/oxpp3eyrzhk142.png",
+          "https://www.qupubuluo.com/qupubuluo/20251205/5upa4322kdh143.png",
+          "https://www.qupubuluo.com/qupubuluo/20251205/ai2htawl4kf144.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -831,14 +1053,25 @@
         "access": "公开",
         "arranger": "17吉他",
         "key": "G",
-        "capo": 4
+        "capo": 4,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1605/5-160514115558.jpg",
+          "https://m.61ok.com/up/imgs/1605/5-160514115608.jpg",
+          "https://m.61ok.com/up/imgs/1605/5-160514115609.jpg"
+        ]
       },
       {
         "source": "优易谱",
         "url": "https://m.61ok.com/plus/view.php?aid=6019",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "老姚吉他"
+        "arranger": "老姚吉他",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1904/5-1Z406125208.png",
+          "https://m.61ok.com/up/imgs/1904/5-1Z406125209.png",
+          "https://m.61ok.com/up/imgs/1904/5-1Z406125219.png",
+          "https://m.61ok.com/up/imgs/1904/5-1Z406125222.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -847,7 +1080,13 @@
         "access": "公开",
         "arranger": "琴庐乐器",
         "key": "G",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1608/5-160Q21JH4.jpg",
+          "https://m.61ok.com/up/imgs/1608/5-160Q21JH4-50.jpg",
+          "https://m.61ok.com/up/imgs/1608/5-160Q21JH5.jpg",
+          "https://m.61ok.com/up/imgs/1608/5-160Q21JH5-50.jpg"
+        ]
       },
       {
         "source": "优易谱",
@@ -855,26 +1094,45 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "晓涛吉他",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1710/1-1G023103243.png",
+          "https://m.61ok.com/up/imgs/1710/1-1G023103244.png",
+          "https://m.61ok.com/up/imgs/1710/1-1G023103244-50.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/39466/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201405/15/135706yobl5blyl77ubruo.gif",
+          "https://att.jitashe.org/data/attachment/forum/201405/15/135720y1uvsvd1mr33ru9k.gif",
+          "https://att.jitashe.org/data/attachment/forum/201405/15/135727tncbs0m8106vmmol.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1346148/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202005/10/180438xr7sqyd704qh7odp.png",
+          "https://att.jitashe.org/data/attachment/forum/202005/10/180442el7ik62mm7bgmx9i.png",
+          "https://att.jitashe.org/data/attachment/forum/202005/10/180449aqj49a078q9d90hx.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1377574/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "初级进阶版 酷音小伟吉他教学"
+        "version": "初级进阶版 酷音小伟吉他教学",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202111/25/142659qpb36nl11jbz13f1.gif",
+          "https://att.jitashe.org/data/attachment/forum/202111/25/142701cheiph4izzpi44pm.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -1044,28 +1302,48 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "老姚吉他",
-        "key": "A"
+        "key": "A",
+        "pages": [
+          "https://pic.jitapai.com/images/2020071112354692.jpeg",
+          "https://pic.jitapai.com/images/202007111235476.jpeg",
+          "https://pic.jitapai.com/images/2020071112354720.jpeg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1297352/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "大伟吉他"
+        "arranger": "大伟吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201607/02/233521qrjjaajbr4ppykoj.gif",
+          "https://att.jitashe.org/data/attachment/forum/201607/02/233521qv6967guza3ffk9k.gif",
+          "https://att.jitashe.org/data/attachment/forum/201607/02/233522j43ojbbzazfyz844.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1336755/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "老姚吉他"
+        "arranger": "老姚吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201903/30/000649i72z7iz2mii99ng2.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201903/30/000655z4ivkv9r9z0zrcic.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201903/30/000659jks1zts1ekck81ks.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/93259/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "洛阳吉他培训"
+        "arranger": "洛阳吉他培训",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201503/23/141831kbub2r2rvb2tdtq3.gif",
+          "https://att.jitashe.org/data/attachment/forum/201503/23/141832e84yky7b67dfzy7n.gif",
+          "https://att.jitashe.org/data/attachment/forum/201503/23/141833zx36ovu8x583coy5.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -1080,7 +1358,11 @@
         "url": "https://www.jitashe.org/tab/1347149/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "与耳音乐"
+        "arranger": "与耳音乐",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202006/18/140908kltpyzxprf5prueo.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202006/18/140910tc7sq3wsluszjj5k.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -1088,7 +1370,17 @@
         "kind": "双吉他",
         "access": "公开",
         "arranger": "最新吉他谱",
-        "version": "2016北京不插电版"
+        "version": "2016北京不插电版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230452sqbpu07kz2ww7hix.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230452s8pqz1qddwds3u6z.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230500ngxgx9p1po9g4lmo.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230500ow8o2zdpx2rdkr1d.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230501vmsz8sim8b88hzsq.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/231357kp531oj3qgqpuz5g.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230502vgt22vt50e25fcc5.png",
+          "https://att.jitashe.org/data/attachment/forum/201704/28/230502hux6p6wav215hem6.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1154,7 +1446,12 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251118/0170345e814e492a8.png",
+          "https://www.qupubuluo.com/qupubuluo/20251118/020be3e311bf8c76c.png",
+          "https://www.qupubuluo.com/qupubuluo/20251118/03286ccb13859f3.png"
+        ]
       },
       {
         "source": "曲谱部落",
@@ -1162,7 +1459,13 @@
         "kind": "指弹",
         "access": "公开",
         "arranger": "钟亚",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251106/5hmrlh2c3bz46.png",
+          "https://www.qupubuluo.com/qupubuluo/20251106/alih4htqjdt47.png",
+          "https://www.qupubuluo.com/qupubuluo/20251106/j5w42tmvblz48.png",
+          "https://www.qupubuluo.com/qupubuluo/20251106/squh1usfgb350.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1170,7 +1473,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "爱德文吉他教室",
-        "key": "A"
+        "key": "A",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1801/1-1P10Q41101.png",
+          "https://m.61ok.com/up/imgs/1801/1-1P10Q41101-50.png",
+          "https://m.61ok.com/up/imgs/1801/1-1P10Q41102.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1178,7 +1486,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "大伟吉他",
-        "key": "A"
+        "key": "A",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1606/5-160625163349.jpg",
+          "https://m.61ok.com/up/imgs/1606/5-160625163349-50.jpg",
+          "https://m.61ok.com/up/imgs/1606/5-160625163350.jpg"
+        ]
       },
       {
         "source": "优易谱",
@@ -1187,7 +1500,11 @@
         "access": "公开",
         "arranger": "简单吉他",
         "key": "G",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://m.61ok.com/up/imgs/1711/1-1G11GZ258.png",
+          "https://m.61ok.com/up/imgs/1711/1-1G11GZ259.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1195,40 +1512,66 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "巍小琪",
-        "key": "A"
+        "key": "A",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1709/1-1F91P94443.png",
+          "https://m.61ok.com/up/imgs/1709/1-1F91P94443-50.png",
+          "https://m.61ok.com/up/imgs/1709/1-1F91P94444.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/153164/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "简单版"
+        "version": "简单版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201507/19/225237z6gccu2r96rsr26t.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1303313/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "酷音小伟吉他教学"
+        "version": "酷音小伟吉他教学",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201611/25/155902z1l55hhc6vqpssnl.gif",
+          "https://att.jitashe.org/data/attachment/forum/201611/25/155908s6ikzszt97eq6iyn.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/181409/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201602/29/211012jxuuupup9nlxculu.gif",
+          "https://att.jitashe.org/data/attachment/forum/201602/29/211017rbx3j5x5gkgfn53z.gif",
+          "https://att.jitashe.org/data/attachment/forum/201602/29/211020t7gif8lg8if8m46e.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1340520/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "简单版"
+        "version": "简单版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201907/27/183352zsb9bdpbi6gxiip5.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201907/27/183403yn2llrsz0lg2xx4g.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1308242/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201703/08/212842av89thne000nerfi.jpeg",
+          "https://att.jitashe.org/data/attachment/forum/201703/08/212843enf9a9zqf21f49ak.jpeg",
+          "https://att.jitashe.org/data/attachment/forum/201703/08/212843yct6b22zw7o8b67c.jpeg"
+        ]
       },
       {
         "source": "吉他社",
@@ -1236,14 +1579,24 @@
         "kind": "弹唱",
         "access": "公开",
         "version": "高音教编配",
-        "key": "A"
+        "key": "A",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201811/07/211417aome0wr2ei5e5e2u.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201811/07/211419oviq7ibyiltqivvh.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201811/07/211421naf1mmqz1eanj31q.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1339993/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "无限延音编配"
+        "version": "无限延音编配",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201907/01/173849x92q7k9hmfmqsmc7.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201907/01/173852dm6f46mef65v19o4.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201907/01/173854fotr5yssn6su5ts5.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -1282,7 +1635,12 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "A",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251102/r1zkh5v2fmw81.png",
+          "https://www.qupubuluo.com/qupubuluo/20251102/kz3ys3d5ala82.png",
+          "https://www.qupubuluo.com/qupubuluo/20251102/ve3v2zfcauy83.png"
+        ]
       },
       {
         "source": "吉他社",
@@ -1368,7 +1726,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "老杨",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1609/5-160916134F8.jpg",
+          "https://m.61ok.com/up/imgs/1609/5-160916134F8-50.jpg",
+          "https://m.61ok.com/up/imgs/1609/5-160916134F9.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -1396,7 +1759,12 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251022/me3pmhe332n75.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251022/umldy1oigag76.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251022/sajly2c41ll77.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1474,7 +1842,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "音艺艺术",
-        "version": "音艺吉他弹唱教学:第七季第59集"
+        "version": "音艺吉他弹唱教学:第七季第59集",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201807/02/200243gddiadoiqohoivcc.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201807/02/200245csu8rmsu4gcslohr.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201807/02/200249j4u3d49utqdt9vq9.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -1506,13 +1879,21 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "音艺",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1807/1-1PF3124021.png",
+          "https://m.61ok.com/up/imgs/1807/1-1PF3124021-50.png",
+          "https://m.61ok.com/up/imgs/1807/1-1PF3124022.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/70358/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201411/18/235147vw2ywd6kpg9p6p6x.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1527,14 +1908,22 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251021/d53or5wi2lp131.png",
+          "https://www.qupubuluo.com/qupubuluo/20251021/ardfiytatl3132.png"
+        ]
       },
       {
         "source": "优易谱",
         "url": "https://m.61ok.com/plus/view.php?aid=5670",
         "kind": "弹唱",
         "access": "公开",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1812/5-1Q210114919.png",
+          "https://m.61ok.com/up/imgs/1812/5-1Q210114920.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1594,7 +1983,21 @@
         "url": "https://www.jitashe.org/tab/1294191/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "1701原版"
+        "version": "1701原版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144327jogggagagaqgioge.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144331yqxk9exqdt9tg5k4.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144333gih356wnlqp4057h.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144334h227c2n31hcsmmmu.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144336m45c5fy2v43e4y4q.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144338kuddcev70ijuspdo.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144339xs871k80xiaxmodm.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144341w6pyy1itt6c6yp8i.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144342cyde1iyfcddrdrzf.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144343sbomzj9r3olo4ho1.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144350glourdfdkkrkzcm1.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201605/07/144520h7bj3xs7sasdhtjs.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1616,7 +2019,19 @@
         "kind": "双吉他",
         "access": "公开",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251123/mgiizefsa2f68.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/p3qs4tku4wk69.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/ossy55otgzw70.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/555dhqamnyl71.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/eqbiw3bei1i72.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/fv0e3wzw3r073.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/adi1u35tfqm74.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/z2ajtde3f5f75.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/cgzgzxy42zg76.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251123/2hegwbkv3uv77.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1671,7 +2086,11 @@
         "url": "https://www.jitashe.org/tab/47984/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/120238ke5zbllorzgkrkga.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/120242ugvgg6fwew17vgz6.gif"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -1712,7 +2131,12 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "G",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251020/2uj2icod1jy373.png",
+          "https://www.qupubuluo.com/qupubuluo/20251020/mx3jhef4dnt374.png",
+          "https://www.qupubuluo.com/qupubuluo/20251020/13x1rg1xehl375.png"
+        ]
       },
       {
         "source": "曲谱部落",
@@ -1721,7 +2145,11 @@
         "access": "公开",
         "arranger": "小琪琴社",
         "key": "G",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251022/bw1sz1u3cfl160.png",
+          "https://www.qupubuluo.com/qupubuluo/20251022/23rjekpm211161.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1729,14 +2157,22 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "巍小琪",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1710/1-1G01G44255.png",
+          "https://m.61ok.com/up/imgs/1710/1-1G01G44255-50.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/15084/",
         "kind": "弹唱",
         "access": "公开",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201212/22/141711un236vfu9cu1e116.gif",
+          "https://att.jitashe.org/data/attachment/forum/201212/22/141716kzrmnu55a31343jl.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -1828,13 +2264,22 @@
         "url": "https://www.jitashe.org/tab/47969/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231059huoqq1o1g0ztg3f0.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231100t4me0ellupxmeluq.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231104nkqw2v4wlz4yqv4k.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231105qmvegey3yy3y4h48.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/21351/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201308/11/115932tl56c0t9l25989cc.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -1924,7 +2369,12 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "深蓝雨吉他",
-        "key": "D"
+        "key": "D",
+        "pages": [
+          "https://pic.jitapai.com/images/20230302103505a024c81e.jpeg",
+          "https://pic.jitapai.com/images/202303021035128238beea.jpeg",
+          "https://pic.jitapai.com/images/20230302103518f199a693.jpeg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -1941,7 +2391,11 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "C",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251020/ctuk2qzbmhu194.png",
+          "https://www.qupubuluo.com/qupubuluo/20251020/d4v3041452s195.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1949,7 +2403,11 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "革命吉他",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/2305/5-230524164131G8.png",
+          "https://m.61ok.com/up/imgs/2305/5-23052416423CQ.png"
+        ]
       },
       {
         "source": "优易谱",
@@ -1963,21 +2421,34 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/171398/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201511/28/130248gv5kpc5vp5yxkyqm.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201511/28/130251hrr2z78zya929628.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1326836/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "深蓝雨吉他"
+        "version": "深蓝雨吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201804/22/185112b3jqulduqc6l101j.gif",
+          "https://att.jitashe.org/data/attachment/forum/201804/22/185118ip4ppvqmqoeqkeyv.gif",
+          "https://att.jitashe.org/data/attachment/forum/201804/22/185122r5aausyau5styqya.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1343582/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "无限延音编配"
+        "version": "无限延音编配",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202001/07/114803y2ppderm0rplrvdf.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202001/07/114806lq3hu9zin89qndu3.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -2042,13 +2513,21 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "巍小琪",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1709/1-1F916132316.png",
+          "https://m.61ok.com/up/imgs/1709/1-1F916132316-50.png",
+          "https://m.61ok.com/up/imgs/1709/1-1F916132317.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1300322/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201609/27/120426k03xa50taaph0z0d.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2152,19 +2631,34 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20260305/amecp2w0q0u404.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20260305/hxmr0gb0kxo405.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20260305/x4zhdek3ffl406.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47953/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021144f2ti0v2i6r6z2v26.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021146v25ch5wtwu9eyl57.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021148qhfhkinsthfsnnrf.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/181882/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201603/01/171005ubfbpfkepbwxxpec.gif",
+          "https://att.jitashe.org/data/attachment/forum/201603/01/171009g6mh4cmsiyci24hi.gif",
+          "https://att.jitashe.org/data/attachment/forum/201603/01/171013iq34tdczn0pn3d0k.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2192,7 +2686,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47936/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/011324tzq7i9o0zqnm1966.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/011326xomdr8kt7ossmvib.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2205,7 +2703,11 @@
         "url": "https://www.qupuw.com/view/6002.html",
         "kind": "弹唱",
         "access": "公开",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://www.qupuw.com/zb_users/upload/2023/06/20230627140215168784573571667.jpg",
+          "https://www.qupuw.com/zb_users/upload/2023/06/20230627140217168784573712915.jpg"
+        ]
       }
     ]
   },
@@ -2217,13 +2719,23 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/4676/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201207/31/234704ib22deqqie6eq5iz.png",
+          "https://att.jitashe.org/data/attachment/forum/201207/31/234707fdlo28lzt50htyko.png",
+          "https://att.jitashe.org/data/attachment/forum/201207/31/234711ftkbc46c4444dzcf.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47947/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/015604sam19m0trmw9mw09.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/015606zo6gpc20pgh5khth.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/015608kx9cv5541n2bbb44.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2241,7 +2753,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47937/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/011550qoor0sc7ccitsyim.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/011551obsqimtpz3joq2bz.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2259,7 +2775,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47948/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/015902s73n4rk3aex73mxv.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/015904mjzxbpcxmzmpoxcv.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2277,19 +2797,35 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47949/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020227orlxaccy4f4c1r4p.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020229x4mv2rrnm2xhtw44.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020233xenp7wu2ngog8np2.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020234lpblw5j5jpzpveew.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47950/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020655hplj84ojjgcq6k3j.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020658zhvcc5tkap3m0zz5.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020700og85z9c89rijrxcr.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47952/",
         "kind": "指弹",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020906koszp22sdzssy1nq.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020907jzj5hyk255ra5ko8.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/020909h8mmlpmfs1fnsawb.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -2316,7 +2852,13 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "G",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251210/wdxddk52sed169.png",
+          "https://www.qupubuluo.com/qupubuluo/20251210/fkz1fmzz2hv170.png",
+          "https://www.qupubuluo.com/qupubuluo/20251210/gxtnuiw23fo171.png",
+          "https://www.qupubuluo.com/qupubuluo/20251210/n1scbergacl172.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -2359,7 +2901,10 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/141569/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201506/13/155528z3513f1c3tcyt9oc.jpg"
+        ]
       },
       {
         "source": "吉他社",
@@ -2380,7 +2925,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1303110/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201611/19/114847ldsjseddudssb3sr.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201611/19/114857spasmm2q16mpmo66.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2398,7 +2947,13 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47938/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012138socw1tec26uvrvbg.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012141tcn8nh2nycnshcj5.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012143jvi4oq0um0v0x058.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012145lnbdojoz2i7boi3i.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2426,7 +2981,12 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47939/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012517v9ezaasa1mmb063a.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012519w0lqv9ql0vvvl3g2.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012522faq0h0664a6wq0j0.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2455,13 +3015,21 @@
         "access": "公开",
         "arranger": "小埋",
         "key": "A",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251204/gbpzcbsooyf109.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47940/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012806cj32v4b52fezi25r.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012808rhpx3k9u9w3c03d0.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/012812u3bqjqjldzstj60q.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2479,7 +3047,12 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47954/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021443th2bl7x7xm8ph57t.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021445tq3li7p5m5lpeqff.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/021446wh6bkkbkt3bskc6j.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2512,7 +3085,12 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "C",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20261001/ues5ooejeqb1224.png",
+          "https://www.qupubuluo.com/qupubuluo/20261001/v5srj5fh5441225.png",
+          "https://www.qupubuluo.com/qupubuluo/20261001/rwtw13aflzt1226.png"
+        ]
       }
     ]
   },
@@ -2544,7 +3122,10 @@
         "url": "https://www.jitashe.org/tab/1301333/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "小宁制作"
+        "arranger": "小宁制作",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201610/06/175538b1shyb1abs99tsy1.png"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2579,14 +3160,23 @@
         "url": "https://www.jitashe.org/tab/47971/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231427huak5qr6qq9km5ua.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231433k5parw0aw18durw8.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/170136/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201511/14/192707r991yom8a51yiipf.gif",
+          "https://att.jitashe.org/data/attachment/forum/201511/14/192713tr5zt2asrosga5as.gif",
+          "https://att.jitashe.org/data/attachment/forum/201511/14/192733n98pzkyicgylwie9.gif"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -2613,7 +3203,12 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251211/hdl2rhpi24j49.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251211/e30m24ueziv50.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251211/tkauk1nvzmv51.jpg"
+        ]
       },
       {
         "source": "吉他世界",
@@ -2634,14 +3229,23 @@
         "url": "https://www.jitashe.org/tab/166581/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "简单吉他"
+        "arranger": "简单吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201510/09/100108rddxmmsa444sw4lm.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201510/09/100110fm8whnukmu8hmnbw.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201510/09/100112v6s8l6stl82p7uk1.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/17408/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "玩易吉他弹唱教程:第六季第7集"
+        "version": "玩易吉他弹唱教程:第六季第7集",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201303/30/194332egmrun5uazkdqk0r.gif",
+          "https://att.jitashe.org/data/attachment/forum/201303/30/194336s33uxrs4nvl3avo9.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -2702,7 +3306,11 @@
         "url": "https://www.jitashe.org/tab/176873/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201601/15/105157htrddyvttthdoert.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201601/15/105201ahfd4hjz4zfmz3fd.jpg"
+        ]
       }
     ]
   },
@@ -2722,7 +3330,13 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47941/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013022al1hfgtz841fp8h1.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013024ka2asx2u5cggiaft.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013028wqjjx5efxjbj5enj.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013031kdnbikh0im00l9fk.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2751,13 +3365,21 @@
         "access": "公开",
         "arranger": "革命吉他",
         "key": "C",
-        "capo": 1
+        "capo": 1,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20260915/q3jhpvzug1a1324.png",
+          "https://www.qupubuluo.com/qupubuluo/20260915/dkmbapxoveq1325.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47942/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013404a3eteufffzlgc57l.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013406fi9f2z0hwcfmtest.gif"
+        ]
       },
       {
         "source": "吉他世界",
@@ -2828,7 +3450,10 @@
         "access": "公开",
         "arranger": "濮宇",
         "key": "C",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251205/zsw5bwrc3ic108.png"
+        ]
       },
       {
         "source": "听李志",
@@ -2862,7 +3487,11 @@
         "url": "https://www.jitashe.org/tab/47972/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231955lbf7oeeqow0c9whc.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/231959oa3v1bhfhhzjf31p.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2881,7 +3510,12 @@
         "url": "https://www.jitashe.org/tab/170957/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201511/25/165340lsu3wy0bcysdzsd3.gif",
+          "https://att.jitashe.org/data/attachment/forum/201511/25/165344s3hht0nn7l634kmt.gif",
+          "https://att.jitashe.org/data/attachment/forum/201511/25/165347va1laaa66c2hia55.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2907,7 +3541,12 @@
         "url": "https://www.jitashe.org/tab/47973/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233349gyvppegephiohfgi.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233350ioppup1h8hzppg8j.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233352za3n3qdncak6qfqa.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2923,20 +3562,33 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "革命吉他",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://m.61ok.com/up/imgs/2504/5-250415111120144.png",
+          "https://m.61ok.com/up/imgs/2504/5-25041511120B15.png",
+          "https://m.61ok.com/up/imgs/2504/5-25041511124EQ.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/7194/",
         "kind": "弹唱",
         "access": "公开",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201209/12/001743jhiu9jznsnh69ku9.gif",
+          "https://att.jitashe.org/data/attachment/forum/201209/12/001746iipkvinajntj6fz1.gif",
+          "https://att.jitashe.org/data/attachment/forum/201209/12/0017497opax9dap6x71q77.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/15079/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201212/22/135347sqi8dkrdkfsjcqsc.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -2993,13 +3645,21 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "WIT吉协",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1709/1-1F9240I122.png",
+          "https://m.61ok.com/up/imgs/1709/1-1F9240I122-50.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1307501/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201702/14/172048nwx43oqzwwaqgkzx.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201702/14/172050fn9ymhg0nqyye0hz.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -3020,7 +3680,11 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "G",
-        "capo": 1
+        "capo": 1,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20260325/zqm4uunf2bs332.png",
+          "https://www.qupubuluo.com/qupubuluo/20260325/rj3td0e3q5u333.png"
+        ]
       }
     ]
   },
@@ -3033,14 +3697,25 @@
         "url": "https://www.jitashe.org/tab/47974/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233923z5e5osmponp22hqp.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233925n7y4uf4zmimvxvuu.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233928dgxslflexv8u24hr.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/233931ihcdrrtzbtsdt3a6.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1401713/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "简单版"
+        "version": "简单版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202505/07/153358j20qevnzgt44tq4q.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202505/07/153359vygl8ral8yc8u0uy.jpg",
+          "https://att.jitashe.org/data/attachment/forum/202505/07/153359u19e29enn8oa81jg.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3083,7 +3758,12 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "A",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251112/kfx4l1zh4hk126.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251112/2dpqtzaiiaq127.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251112/j0e0u5qza3f128.jpg"
+        ]
       },
       {
         "source": "听李志",
@@ -3103,7 +3783,10 @@
         "url": "https://www.jitashe.org/tab/153165/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "简单版"
+        "version": "简单版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201507/19/225427dll6j6uvlc3xlen6.jpg"
+        ]
       }
     ]
   },
@@ -3116,7 +3799,11 @@
         "url": "https://www.jitashe.org/tab/177440/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201601/20/105202mcltyxw8m83m6bew.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201601/20/105206h6gqk6fcfhi5g54i.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3147,7 +3834,13 @@
         "url": "https://www.jitashe.org/tab/47975/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/234751nue7eah3an94uie9.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/234753ud2j0x5jmjq0jemo.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/234754n7vl9uksfxtxd69o.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/234756u8tvc58n1dtk19kk.gif"
+        ]
       },
       {
         "source": "听李志",
@@ -3167,7 +3860,11 @@
         "url": "https://www.xinyuepu.com/jitapu/20198/14950.html",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "简单吉他"
+        "arranger": "简单吉他",
+        "pages": [
+          "https://www.xinyuepu.com/mb/images/logob.png",
+          "https://www.xinyuepu.com/uploadfile/Public/Uploads/2017/11/17/5a0eb6f54bbba.jpg"
+        ]
       }
     ]
   },
@@ -3179,13 +3876,20 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/44346/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201405/28/221120mohx2txqa7a5tax5.gif",
+          "https://att.jitashe.org/data/attachment/forum/201405/28/221125emfr500hmnjfov0d.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/87641/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201502/07/201656iuz4m4n09tuogcto.jpg"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -3212,14 +3916,22 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "E",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251205/didgl5rb4bh76.png",
+          "https://www.qupubuluo.com/qupubuluo/20251205/tdehsgkalo077.png"
+        ]
       },
       {
         "source": "优易谱",
         "url": "https://m.61ok.com/plus/view.php?aid=4564",
         "kind": "弹唱",
         "access": "公开",
-        "key": "E"
+        "key": "E",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1801/1-1P1231P640.png",
+          "https://m.61ok.com/up/imgs/1801/1-1P1231P640-50.png"
+        ]
       }
     ]
   },
@@ -3234,13 +3946,21 @@
         "access": "公开",
         "arranger": "一阵风",
         "key": "C",
-        "capo": 2
+        "capo": 2,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20260309/y2xdk54z3th403.png",
+          "https://www.qupubuluo.com/qupubuluo/20260309/h2trvcksx4d404.png",
+          "https://www.qupubuluo.com/qupubuluo/20260309/kdwueyyppjd405.png"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/15085/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201212/22/142057v1wf2baalafxf55s.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3261,7 +3981,11 @@
         "access": "公开",
         "arranger": "酷音小伟",
         "key": "G",
-        "capo": 3
+        "capo": 3,
+        "pages": [
+          "https://pic.jitapai.com/images/2020092401515763.jpeg",
+          "https://pic.jitapai.com/images/2020092401515716.jpeg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3283,14 +4007,23 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47943/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013653cv9qz9ls24zads3v.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013655lrt55zrzfr6hrwrm.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013656ld323f52dtafvli5.gif"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1299395/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "酷音小伟吉他教学"
+        "version": "酷音小伟吉他教学",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201609/15/145405xa40rxv4vuz9yi33.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201609/15/145406btc0v2ic97q0iicc.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3373,7 +4106,10 @@
         "url": "https://www.jitashe.org/tab/47976/",
         "kind": "指弹",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/000331hh4tfnz0wfhn1w17.gif"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -3386,7 +4122,10 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1374865/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/202108/05/170256y6o3z6f22rwppppp.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3482,7 +4221,16 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1308517/",
         "kind": "双吉他",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161301ldd2isk6ev22pk77.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161312cwga4v327wgaazz3.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161319bzq8ylq3gl3liz9l.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161326vozseqswbsapab5e.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161333gbaogqpll0gyn22p.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161341l11dw8kmobbdro18.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201705/04/161350wb4n9tavh6za5ssz.jpg"
+        ]
       }
     ]
   },
@@ -3495,7 +4243,11 @@
         "url": "https://www.jitashe.org/tab/170959/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201511/25/165543dvcgvsu8jgjixwjj.gif",
+          "https://att.jitashe.org/data/attachment/forum/201511/25/165548dyap5qmpdzpssduk.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3584,6 +4336,17 @@
         "kind": "弹唱",
         "access": "公开",
         "key": "A"
+      },
+      {
+        "url": "https://www.jitapuji.com/30380.html",
+        "source": "极网吉它谱大全",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "A",
+        "pages": [
+          "https://www.jitapuji.com/zb_users/upload/2025/1573400494687905.png",
+          "https://www.jitapuji.com/zb_users/upload/2025/1573400496711445.png"
+        ]
       }
     ]
   },
@@ -3595,7 +4358,10 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1327321/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201805/11/182851h7551qqn187p5mzi.jpg"
+        ]
       },
       {
         "source": "听李志",
@@ -3649,6 +4415,19 @@
         "access": "付费",
         "arranger": "程明",
         "key": "G"
+      },
+      {
+        "url": "https://www.jitapuji.com/27097.html",
+        "source": "极网吉它谱大全",
+        "kind": "弹唱",
+        "access": "公开",
+        "key": "G",
+        "arranger": "小宁吉他教室",
+        "pages": [
+          "https://www.jitapuji.com/zb_users/upload/2025/1588341884850908.gif",
+          "https://www.jitapuji.com/zb_users/upload/2025/1588341886104212.gif",
+          "https://www.jitapuji.com/zb_users/upload/2025/1588341888409816.gif"
+        ]
       }
     ]
   },
@@ -3663,7 +4442,10 @@
         "access": "公开",
         "arranger": "彼岸吉他",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251204/bpbpc2dxqzy134.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -3688,7 +4470,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47944/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013913xrgl4uid7dly5rml.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/013916i12t8u4zxw7f8pt8.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3706,7 +4492,10 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/145627/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201506/25/143230x00s0qsaa1ezt2sv.png"
+        ]
       },
       {
         "source": "吉他屋乐谱网",
@@ -3751,7 +4540,10 @@
         "url": "https://www.jitashe.org/tab/20878/",
         "kind": "弹唱",
         "access": "公开",
-        "version": "现场版"
+        "version": "现场版",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201307/28/125446srvtsifssiyifysr.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3770,7 +4562,12 @@
         "url": "https://www.jitashe.org/tab/47979/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/001328ivehcyziyppcppvy.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/001335wvef5ccw1a2pnpx1.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/001340hs17zjyz8n0s19mm.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -3794,7 +4591,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1302786/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201611/09/191009qzfojmuk9u6kdj5z.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201611/09/191029shaee7ef7a71tofe.jpg"
+        ]
       }
     ]
   },
@@ -3807,7 +4608,12 @@
         "url": "https://www.jitashe.org/tab/47982/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/115513avfwfq8v5vnvvmsw.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/115515ctnb9kjtfchdfz5b.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/115517dmkvsdvps8sg27wb.gif"
+        ]
       },
       {
         "source": "吉他社",
@@ -3833,7 +4639,12 @@
         "url": "https://www.jitashe.org/tab/178839/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201601/27/102543cr5p81phkv28p6r6.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201601/27/102547f8zn036zi82p6g88.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201601/27/102551ry0plvm7lyjely7l.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3854,7 +4665,10 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/20738/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201307/21/214125eeeegpg7n97ohznp.jpg"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3894,13 +4708,25 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "WIT吉协",
-        "key": "G"
+        "key": "G",
+        "pages": [
+          "https://img.qinyipu123.com/jianpudq/jita2/24cd7bfab50771a0e6e34678c0d9c3dc.jpg",
+          "https://img.qinyipu123.com/jianpudq/jita2/c73acd7c540750c6dc9f21d448e35165.jpg",
+          "https://img.qinyipu123.com/jianpudq/jita2/8ba081eeb705e1398be82f85221a180c.jpg",
+          "https://img.qinyipu123.com/jianpudq/jita2/85f90c0f030be2538385f6b459f01168.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/1307401/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201702/11/202207htk8iowt66dc33cj.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201702/11/202210stn5r6sxuxe75iu7.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201702/11/202213gaa5k11145717154.jpg",
+          "https://att.jitashe.org/data/attachment/forum/201702/11/202215ilbkb3lp9gp4iljg.jpg"
+        ]
       },
       {
         "source": "听李志",
@@ -3919,7 +4745,11 @@
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47945/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/014525m65d6645qi946zl2.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/014527eeggh5i4lq4htzs8.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3945,7 +4775,11 @@
         "url": "https://www.jitashe.org/tab/47983/",
         "kind": "弹唱",
         "access": "公开",
-        "arranger": "彼岸吉他"
+        "arranger": "彼岸吉他",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/16/115950up9szvwuuecafaf9.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/16/115951sjwyxst7ejktj3t4.gif"
+        ]
       },
       {
         "source": "吉他站站",
@@ -3966,7 +4800,11 @@
         "access": "公开",
         "arranger": "彼岸吉他",
         "key": "C",
-        "capo": 0
+        "capo": 0,
+        "pages": [
+          "https://www.qupubuluo.com/qupubuluo/20251208/ew4n4lxngnm51.jpg",
+          "https://www.qupubuluo.com/qupubuluo/20251208/fcjy4lqtiso52.jpg"
+        ]
       },
       {
         "source": "优易谱",
@@ -3974,13 +4812,21 @@
         "kind": "弹唱",
         "access": "公开",
         "arranger": "彼岸",
-        "key": "C"
+        "key": "C",
+        "pages": [
+          "https://m.61ok.com/up/imgs/1606/5-16062Q13S3.jpg",
+          "https://m.61ok.com/up/imgs/1606/5-16062Q13S4.jpg"
+        ]
       },
       {
         "source": "吉他社",
         "url": "https://www.jitashe.org/tab/47946/",
         "kind": "弹唱",
-        "access": "公开"
+        "access": "公开",
+        "pages": [
+          "https://att.jitashe.org/data/attachment/forum/201406/15/014704efw8z3fz3efktu3i.gif",
+          "https://att.jitashe.org/data/attachment/forum/201406/15/014706bl632ardauzry0zr.gif"
+        ]
       },
       {
         "source": "吉他屋乐谱网",

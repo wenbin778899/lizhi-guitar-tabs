@@ -54,12 +54,13 @@ export function createReader(onChange) {
   const notice = byId('reader-notice');
   const body = byId('reader-body');
   const openPdf = byId('open-pdf');
+  const retry = byId('retry-page');
   const previous = byId('prev-page');
   const next = byId('next-page');
   const zoomOut = byId('zoom-out');
   const zoomIn = byId('zoom-in');
   const zoomReset = byId('zoom-reset');
-  const state = { id: '', pages: [], page: 0, scale: 1, url: '', cycle: 0 };
+  const state = { id: '', pages: [], page: 0, scale: 1, url: '', cycle: 0, online: false };
 
   function clearPage() {
     body.replaceChildren();
@@ -75,7 +76,10 @@ export function createReader(onChange) {
     const current = state.pages[state.page];
     const pdf = current?.pdf;
     const picture = current && !pdf;
+    choose.hidden = state.online;
     choose.textContent = current ? '更换文件' : '选择图片或 PDF';
+    retry.hidden = true;
+    if (state.online) notice.textContent = '正在加载第 ' + (state.page + 1) + ' 页…';
     pageControls.hidden = state.pages.length < 2;
     zoom.hidden = !picture;
     openPdf.hidden = !pdf;
@@ -91,7 +95,8 @@ export function createReader(onChange) {
       return;
     }
 
-    state.url = URL.createObjectURL(current.file);
+    if (current.file) state.url = URL.createObjectURL(current.file);
+    const source = current.src || state.url;
     if (pdf) {
       const viewer = document.createElement('iframe');
       viewer.src = state.url;
@@ -101,11 +106,19 @@ export function createReader(onChange) {
     } else {
       const image = document.createElement('img');
       image.alt = '六线谱第 ' + (state.page + 1) + ' 页';
-      image.src = state.url;
+      image.decoding = 'async';
+      const online = state.online;
+      image.addEventListener('load', () => {
+        if (image.isConnected && online) notice.textContent = '';
+      }, { once: true });
       image.addEventListener('error', () => {
-        notice.textContent = '此图片无法打开，请检查文件格式。';
+        if (!image.isConnected) return;
+        image.remove();
+        retry.hidden = !online;
+        notice.textContent = online ? '这一页暂时无法加载。可以重试，或关闭后切换版本。' : '此图片无法打开，请检查文件格式。';
       }, { once: true });
       body.append(image);
+      image.src = source;
       renderScale();
     }
     body.scrollTo(0, 0);
@@ -163,6 +176,7 @@ export function createReader(onChange) {
     onChange();
   });
 
+  retry.addEventListener('click', renderPage);
   previous.addEventListener('click', () => changePage(-1));
   next.addEventListener('click', () => changePage(1));
   zoomOut.addEventListener('click', () => setScale(state.scale - .25));
@@ -181,15 +195,19 @@ export function createReader(onChange) {
   });
 
   return {
-    async open(track) {
+    async open(track, version) {
       const cycle = ++state.cycle;
-      state.id = track.id;
-      state.pages = await storedPages(track.id);
+      const pages = version ? version.pages.map((src) => ({ src })) : await storedPages(track.id);
       if (cycle !== state.cycle) return;
+      state.id = track.id;
+      state.online = Boolean(version);
+      dialog.dataset.mode = version ? 'online' : 'local';
+      state.pages = pages;
       state.page = 0;
       state.scale = 1;
       notice.textContent = '';
       byId('reader-title').textContent = track.title;
+      byId('reader-mode').textContent = version ? '在线读谱' : '本地读谱';
       renderPage();
       if (!dialog.open) dialog.showModal();
     },
