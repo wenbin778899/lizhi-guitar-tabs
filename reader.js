@@ -49,101 +49,125 @@ export function createReader(onChange) {
   const dialog = byId('reader');
   const chooser = byId('local-files');
   const choose = byId('choose-files');
-  const pageControls = byId('page-controls');
   const zoom = byId('zoom');
-  const notice = byId('reader-notice');
-  const body = byId('reader-body');
-  const openPdf = byId('open-pdf');
-  const retry = byId('retry-page');
-  const previous = byId('prev-page');
-  const next = byId('next-page');
   const zoomOut = byId('zoom-out');
   const zoomIn = byId('zoom-in');
   const zoomReset = byId('zoom-reset');
-  const state = { id: '', pages: [], page: 0, scale: 1, url: '', cycle: 0, online: false };
+  const notice = byId('reader-notice');
+  const body = byId('reader-body');
+  const openPdf = byId('open-pdf');
+  const localUrls = [];
+  const state = { id: '', scale: 1, cycle: 0, online: false };
+  let stack;
 
-  function clearPage() {
+  function clearSheets() {
     body.replaceChildren();
     openPdf.removeAttribute('href');
-    if (state.url) {
-      URL.revokeObjectURL(state.url);
-      state.url = '';
-    }
+    stack = undefined;
+    for (const url of localUrls) URL.revokeObjectURL(url);
+    localUrls.length = 0;
   }
 
-  function renderPage() {
-    clearPage();
-    const current = state.pages[state.page];
-    const pdf = current?.pdf;
-    const picture = current && !pdf;
-    choose.hidden = state.online;
-    choose.textContent = current ? '更换文件' : '选择图片或 PDF';
-    retry.hidden = true;
-    if (state.online) notice.textContent = '正在加载第 ' + (state.page + 1) + ' 页…';
-    pageControls.hidden = state.pages.length < 2;
-    zoom.hidden = !picture;
-    openPdf.hidden = !pdf;
-    previous.disabled = state.page <= 0;
-    next.disabled = state.page >= state.pages.length - 1;
-    byId('page-count').textContent = (state.page + 1) + ' / ' + state.pages.length;
+  function pageSource(page) {
+    if (!page.file) return page.src;
+    const url = URL.createObjectURL(page.file);
+    localUrls.push(url);
+    return url;
+  }
 
-    if (!current) {
+  function sheetImage(page, index) {
+    const source = pageSource(page);
+    const sheet = document.createElement('div');
+    sheet.className = 'reader-sheet';
+
+    const image = document.createElement('img');
+    image.alt = '六线谱第 ' + (index + 1) + ' 张';
+    image.loading = index === 0 ? 'eager' : 'lazy';
+    image.decoding = 'async';
+
+    const failure = document.createElement('div');
+    failure.className = 'reader-sheet-error';
+    failure.hidden = true;
+    const message = document.createElement('p');
+    message.textContent = state.online ? '这张谱图暂时无法加载。' : '这张图片无法打开，请检查文件格式。';
+    failure.append(message);
+
+    if (state.online) {
+      const retry = document.createElement('button');
+      retry.className = 'secondary';
+      retry.type = 'button';
+      retry.textContent = '重新加载这张';
+      retry.addEventListener('click', () => {
+        failure.hidden = true;
+        image.hidden = false;
+        image.loading = 'eager';
+        image.removeAttribute('src');
+        image.src = source;
+        body.focus({ preventScroll: true });
+      });
+      failure.append(retry);
+    }
+
+    image.addEventListener('error', () => {
+      image.hidden = true;
+      failure.hidden = false;
+    });
+    sheet.append(image, failure);
+    image.src = source;
+    return sheet;
+  }
+
+  function renderSheets(pages) {
+    clearSheets();
+    state.scale = 1;
+    const first = pages[0];
+    const pdf = first?.pdf;
+    choose.hidden = state.online;
+    choose.textContent = first ? '更换文件' : '选择图片或 PDF';
+    zoom.hidden = !first || Boolean(pdf);
+    openPdf.hidden = !pdf;
+
+    if (!first) {
       const empty = document.createElement('p');
       empty.className = 'reader-empty';
-      empty.textContent = '可以一次选择多张谱图，页面会按文件名顺序排列。';
+      empty.textContent = '可以一次选择多张谱图，按文件名顺序连续显示。';
       body.append(empty);
-      return;
-    }
-
-    if (current.file) state.url = URL.createObjectURL(current.file);
-    const source = current.src || state.url;
-    if (pdf) {
+    } else if (pdf) {
       const viewer = document.createElement('iframe');
-      viewer.src = state.url;
+      const source = pageSource(first);
+      viewer.src = source;
       viewer.title = '本地曲谱 PDF';
-      openPdf.href = state.url;
+      openPdf.href = source;
       body.append(viewer);
     } else {
-      const image = document.createElement('img');
-      image.alt = '六线谱第 ' + (state.page + 1) + ' 页';
-      image.decoding = 'async';
-      const online = state.online;
-      image.addEventListener('load', () => {
-        if (image.isConnected && online) notice.textContent = '';
-      }, { once: true });
-      image.addEventListener('error', () => {
-        if (!image.isConnected) return;
-        image.remove();
-        retry.hidden = !online;
-        notice.textContent = online ? '这一页暂时无法加载。可以重试，或关闭后切换版本。' : '此图片无法打开，请检查文件格式。';
-      }, { once: true });
-      body.append(image);
-      image.src = source;
+      stack = document.createElement('div');
+      stack.className = 'reader-stack';
+      stack.append(...pages.map(sheetImage));
+      body.append(stack);
       renderScale();
     }
+
     body.scrollTo(0, 0);
   }
 
   function renderScale() {
-    const image = body.querySelector('img');
-    if (!image) return;
-    image.style.width = state.scale * 100 + '%';
+    stack.style.width = state.scale * 100 + '%';
     zoomReset.textContent = state.scale === 1 ? '适合宽度' : Math.round(state.scale * 100) + '%';
     zoomOut.disabled = state.scale <= 1;
     zoomIn.disabled = state.scale >= 3;
   }
 
-  function changePage(step) {
-    const target = state.page + step;
-    if (target < 0 || target >= state.pages.length) return;
-    state.page = target;
-    notice.textContent = '';
-    renderPage();
-  }
-
   function setScale(scale) {
-    state.scale = Math.min(3, Math.max(1, scale));
+    if (!stack) return;
+    const next = Math.min(3, Math.max(1, scale));
+    if (next === state.scale) return;
+    const ratio = next / state.scale;
+    const center = body.clientWidth / 2;
+    const left = (body.scrollLeft + center) * ratio - center;
+    const top = body.scrollTop * ratio;
+    state.scale = next;
     renderScale();
+    body.scrollTo(left, top);
   }
 
   choose.addEventListener('click', () => chooser.click());
@@ -163,11 +187,8 @@ export function createReader(onChange) {
       .map((file) => ({ file, pdf: pdfs.length > 0 }));
     const id = state.id;
     const cycle = state.cycle;
-    state.pages = pages;
-    state.page = 0;
-    state.scale = 1;
     notice.textContent = '';
-    renderPage();
+    renderSheets(pages);
     try {
       await savePages(id, pages);
     } catch {
@@ -176,22 +197,12 @@ export function createReader(onChange) {
     onChange();
   });
 
-  retry.addEventListener('click', renderPage);
-  previous.addEventListener('click', () => changePage(-1));
-  next.addEventListener('click', () => changePage(1));
   zoomOut.addEventListener('click', () => setScale(state.scale - .25));
   zoomIn.addEventListener('click', () => setScale(state.scale + .25));
   zoomReset.addEventListener('click', () => setScale(1));
-  dialog.addEventListener('keydown', (event) => {
-    if (state.pages.length < 2 || event.altKey || event.ctrlKey || event.metaKey) return;
-    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
-    event.preventDefault();
-    changePage(event.key === 'ArrowLeft' ? -1 : 1);
-  });
   dialog.addEventListener('close', () => {
     state.cycle++;
-    clearPage();
-    state.pages = [];
+    clearSheets();
   });
 
   return {
@@ -202,14 +213,11 @@ export function createReader(onChange) {
       state.id = track.id;
       state.online = Boolean(version);
       dialog.dataset.mode = version ? 'online' : 'local';
-      state.pages = pages;
-      state.page = 0;
-      state.scale = 1;
       notice.textContent = '';
       byId('reader-title').textContent = track.title;
       byId('reader-mode').textContent = version ? '在线读谱' : '本地读谱';
-      renderPage();
       if (!dialog.open) dialog.showModal();
+      renderSheets(pages);
     },
     async has(id) {
       return (await storedPages(id)).length > 0;

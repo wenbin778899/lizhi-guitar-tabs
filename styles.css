@@ -138,12 +138,14 @@ body:has(.reader[open]) { overflow: hidden; }
 .reader-head { background: #edf5ee; }
 .reader-head h2 { font-size: 1.5rem; }
 .reader-actions { justify-content: flex-start; flex-wrap: wrap; }
-.page-controls, .zoom { display: flex; align-items: center; gap: 7px; font-size: .9rem; color: var(--muted); white-space: nowrap; }
-#page-count { min-width: 3.5em; text-align: center; }
+.zoom { display: flex; align-items: center; gap: 7px; font-size: .9rem; color: var(--muted); white-space: nowrap; }
 .zoom { margin-inline-start: auto; }
 .reader-notice:not(:empty) { padding: 8px 18px; background: #f2f7f2; color: var(--muted); font-size: .93rem; }
-.reader-body { flex: 1 1 auto; min-height: 0; overflow: auto; background: #e9eeea; overscroll-behavior: contain; }
-.reader-body img { display: block; max-width: none; margin-inline: auto; background: white; }
+.reader-body { flex: 1 1 auto; min-height: 0; overflow: auto; background: #e9eeea; overscroll-behavior: contain; scrollbar-gutter: stable; }
+.reader-body:focus-visible { outline-offset: -3px; }
+.reader-stack { width: 100%; background: #fff; }
+.reader-sheet img { display: block; width: 100%; height: auto; aspect-ratio: auto 210 / 297; }
+.reader-sheet-error { display: grid; justify-items: center; gap: 8px; padding: 20px; color: var(--muted); background: var(--background); }
 .reader-body iframe { display: block; width: 100%; height: 67dvh; border: 0; }
 .reader-empty { padding: 44px 20px; color: var(--muted); text-align: center; }
 

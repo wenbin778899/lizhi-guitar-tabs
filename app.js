@@ -1,4 +1,4 @@
-import { createReader } from './reader.js?v=2';
+import { createReader } from './reader.js?v=3';
 
 const byId = (id) => document.getElementById(id);
 const ui = {
@@ -108,18 +108,18 @@ function showScorePreview() {
 
   const key = version.key && (version.key.endsWith('调') ? version.key + '指法' : version.key + ' 调指法');
   const capo = Number.isInteger(version.capo) && (version.capo === 0 ? '不夹变调夹' : '变调夹 ' + version.capo + ' 品');
-  ui.scoreMeta.textContent = [key, capo, version.pages.length + ' 页'].filter(Boolean).join(' · ');
+  ui.scoreMeta.textContent = [key, capo].filter(Boolean).join(' · ');
 
   if (ui.scoreThumb.dataset.page === version.pages[0] && ui.scoreThumb.firstChild) return;
   ui.scoreThumb.dataset.page = version.pages[0];
   const image = node('img', 'score-thumb-image');
-  image.alt = state.detailTrack.title + '六线谱第一页';
+  image.alt = state.detailTrack.title + '六线谱预览';
   image.decoding = 'async';
-  const placeholder = node('span', 'score-thumb-status', '正在加载第一页…');
+  const placeholder = node('span', 'score-thumb-status', '正在加载谱图…');
   image.addEventListener('load', () => placeholder.remove(), { once: true });
   image.addEventListener('error', () => {
     image.remove();
-    placeholder.textContent = '第一页暂时加载失败，点此打开读谱器重试。';
+    placeholder.textContent = '谱图暂时加载失败，点此打开读谱器重试。';
   }, { once: true });
   ui.scoreThumb.replaceChildren(placeholder, image);
   image.src = version.pages[0];

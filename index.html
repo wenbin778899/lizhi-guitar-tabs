@@ -7,8 +7,8 @@
   <meta name="description" content="李志吉他六线谱索引。直接查看弹唱、指弹和双吉他六线谱，也可导入本地谱图。">
   <title>李志吉他谱</title>
   <link rel="icon" href="./assets/note.png" type="image/png">
-  <link rel="stylesheet" href="./styles.css?v=2">
-  <script type="module" src="./app.js?v=3"></script>
+  <link rel="stylesheet" href="./styles.css?v=3">
+  <script type="module" src="./app.js?v=4"></script>
 </head>
 <body>
   <header class="site-header">
@@ -25,7 +25,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div class="hero-content">
         <h1 id="page-title">李志吉他谱</h1>
-        <p>查找李志歌曲的弹唱、指弹和双吉他六线谱，站内翻页练习。</p>
+        <p>查找李志歌曲的弹唱、指弹和双吉他六线谱，打开后上下滚动看谱。</p>
         <div class="hero-meta" id="hero-meta" hidden>
           <span id="song-count"></span><span id="version-count"></span>
         </div>
@@ -106,21 +106,15 @@
     <div class="reader-actions">
       <button id="choose-files" type="button" class="secondary">选择谱图</button>
       <input id="local-files" type="file" accept=".png,.jpg,.jpeg,.webp,.avif,.gif,.bmp,.pdf" multiple hidden>
-      <div class="page-controls" id="page-controls" hidden>
-        <button class="secondary" id="prev-page" type="button">上一页</button>
-        <span id="page-count" aria-live="polite"></span>
-        <button class="secondary" id="next-page" type="button">下一页</button>
-      </div>
       <div class="zoom" id="zoom" hidden>
         <button class="secondary" id="zoom-out" type="button" aria-label="缩小">−</button>
         <button class="secondary" id="zoom-reset" type="button" aria-label="适合宽度">适合宽度</button>
         <button class="secondary" id="zoom-in" type="button" aria-label="放大">+</button>
       </div>
-      <button class="secondary" id="retry-page" type="button" hidden>重新加载</button>
       <a class="secondary" id="open-pdf" target="_blank" rel="noopener" hidden>打开 PDF</a>
     </div>
     <p class="reader-notice" id="reader-notice" role="status"></p>
-    <div class="reader-body" id="reader-body"></div>
+    <div class="reader-body" id="reader-body" role="region" tabindex="0" aria-label="连续谱面"></div>
   </dialog>
 </body>
 </html>
